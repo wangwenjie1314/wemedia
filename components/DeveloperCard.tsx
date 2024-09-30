@@ -10,7 +10,7 @@ export default function DeveloperCard() {
     <div className="flex w-full items-start justify-center mt-12">
       <Card className="mt-10 w-[400px]">
         <CardHeader className="relative flex h-[100px] flex-col justify-end overflow-visible bg-gradient-to-br from-indigo-300 via-Cyan-300 to-blue-400">
-          <Image className="h-20 w-20 translate-y-12" src={wenjie}  alt="Avatar" />
+          <Image className="h-20 w-20 rounded-full overflow-hidden translate-y-12" src={wenjie}  alt="Avatar" />
         </CardHeader>
         <CardBody>
           <div className="pb-4 pt-6">
