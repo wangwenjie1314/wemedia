@@ -10,8 +10,12 @@ export default function DeveloperCard() {
     <div className="flex w-full items-start justify-center mt-12">
       <Card className="mt-10 w-[400px]">
         <CardHeader className="relative flex h-[100px] flex-col justify-end overflow-visible bg-gradient-to-br from-indigo-300 via-Cyan-300 to-blue-400">
-          <Image className="w-20 rounded-full overflow-hidden translate-y-12" src={"/wenjie.jpg"}  width={80} 
-            height={80} alt="Avatar" />
+          <Image 
+            className="w-20 rounded-full overflow-hidden translate-y-12" 
+            src="/wenjie.jpg"
+            width={80} 
+            height={80} 
+            alt="Avatar" />
         </CardHeader>
         <CardBody>
           <div className="pb-4 pt-6">
