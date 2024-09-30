@@ -1,6 +1,7 @@
 import { WeeklyPost } from "@/types/weekly";
 import dayjs from "dayjs";
-import Link from "next/link";
+import Link from 'next/link';
+// import { usePathname } from 'next/navigation';
 
 export default async function WeeklyList({
   isSide,
@@ -9,6 +10,7 @@ export default async function WeeklyList({
   isSide?: boolean;
   posts: WeeklyPost[];
 }) {
+  // const pathname = usePathname();
   return (
     <ul className="flex flex-col gap-4">
       {posts.map((post) => (
@@ -25,7 +27,7 @@ export default async function WeeklyList({
             </span>
           )}
           <Link
-            href={`./weekly/${post.metadata.slug}`}
+            href={`/weekly/${post.metadata.slug}`}
             className="link-default truncate transition-colors duration-500 ease-in-out"
           >
             {post.metadata.title}

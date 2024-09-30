@@ -8,8 +8,11 @@ const nextConfig = {
     output: 'export',
     distDir: 'docs',
     // assetPrefix: '.',
-    basePath: '/wemedia',
+    basePath: process.env.NODE_ENV === 'production' ? '/wemedia' : '',
     trailingSlash: true,
+    images: {
+      unoptimized: true,
+    },
   }),
 };
 

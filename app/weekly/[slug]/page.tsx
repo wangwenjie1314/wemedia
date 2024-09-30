@@ -120,14 +120,14 @@ export default async function WeeklyDetailsPage({ params }: Props) {
             <Link href="/" className="link-underline">
               去首页
             </Link>
-            <Link
+            {/* <Link
               href="https://twitter.com/weijunext/"
               target="_blank"
               rel="noopener noreferrer nofollow"
               className="link-underline"
             >
               Twitter/X
-            </Link>
+            </Link> */}
           </div>
         </div>
         <Comments />
