@@ -1,6 +1,7 @@
 import HeaderLinks from "@/components/header/HeaderLinks";
 import SearchBar from "@/components/header/SearchBar";
 import { siteConfig } from "@/config/site";
+import logo from "@/public/logo.svg";
 import { WeeklyPost } from "@/types/weekly";
 import Image from "next/image";
 import Link from "next/link";
@@ -13,7 +14,7 @@ const Header = ({ posts }: { posts: WeeklyPost[] }) => {
           <Link href="/" className="flex items-center space-x-1 font-bold">
             <Image
               alt={siteConfig.name}
-              src="/logo.svg"
+              src={logo}
               className="w-8 h-8"
               width={24}
               height={24}
