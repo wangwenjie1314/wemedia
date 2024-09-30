@@ -56,6 +56,9 @@ dependencies:
   framer-motion:
     specifier: ^11.0.25
     version: 11.0.25(react-dom@18.2.0)(react@18.2.0)
+  giscus:
+    specifier: ^1.5.0
+    version: 1.5.0
   gray-matter:
     specifier: ^4.0.3
     version: 4.0.3
@@ -523,6 +526,7 @@ packages:
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [linux]
+    libc: [glibc]
     requiresBuild: true
     optional: true
 
@@ -531,6 +535,7 @@ packages:
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [linux]
+    libc: [musl]
     requiresBuild: true
     optional: true
 
@@ -539,6 +544,7 @@ packages:
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [linux]
+    libc: [glibc]
     requiresBuild: true
     optional: true
 
@@ -547,6 +553,7 @@ packages:
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [linux]
+    libc: [musl]
     requiresBuild: true
     optional: true
 
