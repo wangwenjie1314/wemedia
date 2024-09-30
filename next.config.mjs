@@ -7,7 +7,7 @@ const nextConfig = {
   ...(process.env.NODE_ENV === 'production' && {
     output: 'export',
     distDir: 'docs',
-    assetPrefix: '.',
+    // assetPrefix: '.',
     basePath: '/wemedia',
     trailingSlash: true,
   }),
