@@ -1,23 +1,22 @@
 import { SiteConfig } from "@/types/siteConfig";
-import { BsGithub, BsTwitterX, BsWechat } from "react-icons/bs";
+import { BsGithub } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
-import { SiBuymeacoffee, SiJuejin } from "react-icons/si";
 
 const baseSiteConfig = {
-  name: "Weekly Boilerplate",
+  name: "自媒体、出海记",
   description:
-    "Weekly Boilerplate is a carefully crafted weekly newsletter website template, implemented using Next.js + MDX.",
-  url: "https://weekly.weijunext.com",
+    "记录自媒体还有出海的一步步",
+  url: "https://wangwenjie1314.github.io/WeMedia/",
   metadataBase: '/',
-  keywords: ["open-source weekly"],
+  keywords: ["WeMedia goout"],
   authors: [
     {
-      name: "weijunext",
+      name: "jon",
       url: "https://weijunext.com",
       twitter: 'https://twitter.com/weijunext',
     }
   ],
-  creator: '@weijunext',
+  creator: '@jon.wang',
   defaultNextTheme: 'dark', // next-theme option: system | dark | light
   icons: {
     icon: "/favicon.ico",
@@ -25,27 +24,27 @@ const baseSiteConfig = {
     apple: "/logo.png",
   },
   headerLinks: [
-    { name: 'repo', href: "https://github.com/weijunext/weekly-boilerplate", icon: BsGithub },
-    { name: 'twitter', href: "https://twitter.com/weijunext", icon: BsTwitterX },
-    { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/weijunext", icon: SiBuymeacoffee }
+    { name: 'repo', href: "https://github.com/wangwenjie1314/WeMedia", icon: BsGithub },
+    // { name: 'twitter', href: "https://twitter.com/weijunext", icon: BsTwitterX },
+    // { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/weijunext", icon: SiBuymeacoffee }
   ],
   footerLinks: [
-    { name: 'email', href: "mailto:weijunext@gmail.com", icon: MdEmail },
-    { name: 'twitter', href: "https://twitter.com/weijunext", icon: BsTwitterX },
-    { name: 'github', href: "https://github.com/weijunext/", icon: BsGithub },
-    { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/weijunext", icon: SiBuymeacoffee },
-    { name: 'juejin', href: "https://juejin.cn/user/26044008768029", icon: SiJuejin },
-    { name: 'weChat', href: "https://weijunext.com/make-a-friend", icon: BsWechat }
+    { name: 'email', href: "mailto:1662484899@qq.com", icon: MdEmail },
+    // { name: 'twitter', href: "https://twitter.com/weijunext", icon: BsTwitterX },
+    { name: 'github', href: "https://github.com/wangwenjie1314/", icon: BsGithub },
+    // { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/weijunext", icon: SiBuymeacoffee },
+    // { name: 'juejin', href: "https://juejin.cn/user/26044008768029", icon: SiJuejin },
+    // { name: 'weChat', href: "https://weijunext.com/make-a-friend", icon: BsWechat }
   ],
   footerProducts: [
-    { url: 'https://weijunext.com/', name: 'J实验室' },
-    { url: 'https://nextjscn.org/', name: 'Next.js 中文文档' },
-    { url: 'https://nextjs.weijunext.com/', name: 'Next.js Practice' },
-    { url: 'https://PHCopilot.AI/', name: 'Product Hunt Copilot' },
-    { url: 'https://smartexcel.cc/', name: 'Smart Excel' },
-    { url: 'https://weekly.weijunext.com/', name: 'Weekly Boilerplate' },
-    { url: 'https://landingpage.weijunext.com/', name: 'Landing Page Boilerplate' },
-    { url: 'https://github.com/weijunext/indie-hacker-tools', name: 'Indie Hacker Tools' },
+    // { url: 'https://weijunext.com/', name: 'J实验室' },
+    // { url: 'https://nextjscn.org/', name: 'Next.js 中文文档' },
+    // { url: 'https://nextjs.weijunext.com/', name: 'Next.js Practice' },
+    // { url: 'https://PHCopilot.AI/', name: 'Product Hunt Copilot' },
+    // { url: 'https://smartexcel.cc/', name: 'Smart Excel' },
+    // { url: 'https://weekly.weijunext.com/', name: 'Weekly Boilerplate' },
+    // { url: 'https://landingpage.weijunext.com/', name: 'Landing Page Boilerplate' },
+    // { url: 'https://github.com/weijunext/indie-hacker-tools', name: 'Indie Hacker Tools' },
   ]
 }
 
