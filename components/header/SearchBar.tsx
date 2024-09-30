@@ -116,7 +116,7 @@ const SearchBar = ({ posts }: { posts: WeeklyPost[] }) => {
               <Link
                 key={`${result.id}_${index}`}
                 // get the right url
-                href={`/weekly/${result.id.split("_")[0]}`}
+                href={`./weekly/${result.id.split("_")[0]}`}
                 onClick={finishSearch}
               >
                 <li

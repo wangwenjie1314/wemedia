@@ -3,11 +3,12 @@ import remarkGfm from "remark-gfm";
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Configure `pageExtensions`` to include MDX files
   pageExtensions: ["js", "jsx", "mdx", "ts", "tsx"],
-  output: 'export',
-  distDir: 'docs',
-  // Optionally, add any other Next.js config below
+  ...(process.env.NODE_ENV === 'production' && {
+    output: 'export',
+    distDir: 'docs',
+    assetPrefix: '.',
+  }),
 };
 
 const withMDX = createMDX({
