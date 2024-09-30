@@ -1,74 +1,66 @@
-🌍 *[英文](README.md) ∙ [简体中文](README-zh.md)*
+# wemedia
 
-# [Weekly Boilerplate](https://weekly.weijunext.com/)
+基于weekly模板创建的一个记录自媒体、出海之旅的独立站。
 
-Weekly Boilerplate 是一个精心设计的**周刊**网站模板，旨在为技术人员与非技术人员提供一个一键启动的周刊业务。
+依托于github pages能力展示。
 
-演示地址：https://weekly.weijunext.com
+## 如何新建页面（支持图片上传，图床在github）
 
-设计开发拆解文章：[Next.js+MDX手撸周刊/博客网站](https://juejin.cn/post/7355845238907486271)
-
-使用本模板的网站：
-- J 实验室：https://weijunext.com 
-- 信息差周刊：https://gapis.money
-
-## 技术栈
-
-Weekly Boilerplate 基于以下技术栈构建：
-
-- Next.js – 前端
-- MDX - 内容编写
-- TailwindCSS – 样式
-- Shadcn、NextUI – UI
-- Giscus – 评论插件
-- Google Analytics - 分析（[如何使用？](https://weijunext.com/article/979b9033-188c-4d88-bfff-6cf74d28420d)）
-- Vercel - 托管
+[Markdown编辑器-所见即所得](https://wangwenjie1314.github.io/mdnice/)
 
 
-## 本地运行
+## 如何使用.mdx 创建文章 
 
-克隆仓库后，您需要复制 `.env.example` 文件来创建一个 `.env` 文件，并填写所需字段。
+---
+title: 开源周刊第1期：用法介绍
+slug: 2024-02-05-001
+date: 2024-02-05
+---
 
-然后，在命令行中运行应用程序，它将在 `http://localhost:3000` 上可用。
 
-```bash
-npm run dev
+一个页面只能有一个 h1，就是标题，所以页面内容要从 h2 开始
+
+开源测试
+
+## 标题 2
+
+Markdown允许你轻松地编写网页内容。它的语法简单明了。
+
+### 标题 3
+
+你也可以创建*斜体*和**粗体**文本，甚至是***斜体加粗体***。
+
+#### 标题 4
+
+列表是Markdown中常用的元素：
+
+- 项目一
+- 项目二
+  - 子项目一
+  - 子项目二
+- 项目三
+
+1. 第一项
+2. 第二项
+3. 第三项
+
+##### 标题 5
+
+链接和图片也很容易添加：
+
+[链接演示：J实验室](https://www.weijunext.com/make-a-friendss)
+
+![图片演示](/logo.svg)
+
+###### 标题 6
+
+代码块和引用也是Markdown的重要组成部分：
+
+```javascript
+console.log('Hello, MDX!');
 ```
 
-## 一键部署
+开源测试2
 
-使用 [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples) 部署：
+> 这是一个引用文本。
 
-[![使用 Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/weijunext/weekly-boilerplate&project-name=&repository-name=weekly-boilerplate&demo-title=weekly-boilerplate&demo-description=Weekly%20Boilerplate.&demo-url=https://weekly.weijunext.com)
-
-
-## 功能开发列表
-- [x] 周刊/博客的 SSG 渲染
-- [x] 文章索引
-- [x] 评论功能
-- [x] 搜索功能(部分)
-- [ ] 搜索结果点击可跳转并滚动到选中位置
-- [ ] 搜索结果每一条内容只显示一行
-
-## 关于我
-
-**Full-Stack Engineer, Open-Source Next.js Artist & AI Enthusiast.**
-
-**全栈工程师，Next.js 开源手艺人，AI降临派。**
-
-[博客](https://weijunext.com)  
-[Github](https://github.com/weijunext)  
-[Twitter/X](https://twitter.com/weijunext)  
-[Medium](https://medium.com/@weijunext)  
-[掘金](https://juejin.cn/user/26044008768029)  
-[知乎](https://www.zhihu.com/people/mo-mo-mo-89-12-11)  
-[微信交流群](https://weijunext.com/make-a-friend)  
-
-如果这个项目对您有帮助，请给仓库点个star，能赞助一下就更好了👇
-
-<a href="https://www.buymeacoffee.com/weijunextz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="请我喝咖啡" style="height: 41px !important;width: 174px !important;" ></a>
-
-
-<a href="https://afdian.net/a/weijunext" target="_blank"><img src="./public/afd.png" alt="在爱发电支持我" style="height: 50px !important"></a>
-
-<img src="./public/zs.jpeg" alt="赞赏作者" style="height: 200px; width: 200px">

@@ -1,80 +1,68 @@
 🌍 *[English](README.md) ∙ [简体中文](README-zh.md)*
 
+# wemedia
 
-# [Weekly Boilerplate](https://weekly.weijunext.com/)
+An independent website created based on the weekly template to record self media and overseas trips.
 
-Weekly Boilerplate is a carefully designed **weekly newsletter website** template, aimed at providing a one-click startup solution for weekly newsletter businesses for both technical and non-technical users.
+Relying on the ability to showcase on GitHub pages.
 
-Demo address：https://weekly.weijunext.com
+## How to create markdown page
 
-Blog: [Next.js+MDX手撸周刊/博客网站](https://juejin.cn/post/7355845238907486271)
-
-Use this boilerplate website：
-- J Blog：https://weijunext.com 
-- 信息差周刊：https://gapis.money
-
-## Tech Stack 
-
-Weekly Boilerplate is built on the following tech stack:
-
-- Next.js – Frontend
-- MDX - Content writing
-- TailwindCSS – Styling
-- Shadcn, NextUI – UI
-- Giscus – Comment plugin
-- Google Analytics - Analytics([How to use?](https://weijunext.com/article/979b9033-188c-4d88-bfff-6cf74d28420d))
-- Vercel - Hosting
+[Markdown Editor](https://wangwenjie1314.github.io/mdnice/)
 
 
-## Running Locally
+## How to use .mdx file 
 
-After cloning the repo, you need to copy the `.env.example` file to create a `.env` file and fill in the required fields.
+---
+title: 开源周刊第1期：用法介绍
+slug: 2024-02-05-001
+date: 2024-02-05
+---
 
-Then, run the application in the command line and it will be available at `http://localhost:3000`.
 
-```bash
-npm run dev
+一个页面只能有一个 h1，就是标题，所以页面内容要从 h2 开始
+
+开源测试
+
+## 标题 2
+
+Markdown允许你轻松地编写网页内容。它的语法简单明了。
+
+### 标题 3
+
+你也可以创建*斜体*和**粗体**文本，甚至是***斜体加粗体***。
+
+#### 标题 4
+
+列表是Markdown中常用的元素：
+
+- 项目一
+- 项目二
+  - 子项目一
+  - 子项目二
+- 项目三
+
+1. 第一项
+2. 第二项
+3. 第三项
+
+##### 标题 5
+
+链接和图片也很容易添加：
+
+[链接演示：J实验室](https://www.weijunext.com/make-a-friendss)
+
+![图片演示](/logo.svg)
+
+###### 标题 6
+
+代码块和引用也是Markdown的重要组成部分：
+
+```javascript
+console.log('Hello, MDX!');
 ```
 
+开源测试2
 
-## One-Click Deploy
+> 这是一个引用文本。
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/weijunext/weekly-boilerplate&project-name=&repository-name=weekly-boilerplate&demo-title=weekly-boilerplate&demo-description=Weekly%20Boilerplate.&demo-url=https://weekly.weijunext.com)
-
-
-## TODO List
-
-- [x] SSG rendering for weekly/blog
-- [x] Article indexing
-- [x] Comment functionality
-- [x] Search functionality (partial)
-- [ ] Clicking on search results should navigate and scroll to the selected position
-- [ ] Display only one line for each search result item
-
-
-
-## About Me
-
-**Full-Stack Engineer, Open-Source Next.js Artist & AI Enthusiast.**
-
-**全栈工程师，Next.js 开源手艺人，AI降临派。**
-
-[My Blog](https://weijunext.com)  
-[Github](https://github.com/weijunext)  
-[Twitter/X](https://twitter.com/weijunext)  
-[Twitter/X - En](https://twitter.com/wayne_dev)  
-[Medium](https://medium.com/@weijunext)  
-[掘金](https://juejin.cn/user/26044008768029)  
-[知乎](https://www.zhihu.com/people/mo-mo-mo-89-12-11)  
-[微信交流群](https://weijunext.com/make-a-friend)  
-
-If this project is helpful to you, star the repo and buy be a coffee, thank you.
-
-<a href="https://www.buymeacoffee.com/weijunext" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
-
-
-<a href="https://afdian.net/a/weijunext" target="_blank"><img src="./public/afd.png" alt="在爱发电支持我" style="height: 50px !important"></a>
-
-<img src="./public/zs.jpeg" alt="赞赏作者" style="height: 200px; width: 200px">

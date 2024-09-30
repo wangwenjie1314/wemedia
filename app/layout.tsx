@@ -40,7 +40,7 @@ export default async function RootLayout({
           forcedTheme={siteConfig.defaultNextTheme}
         >
           <Header posts={posts} />
-          <main className="flex flex-col items-center py-6">{children}</main>
+          <main className="flex flex-col items-center py-6 bg-background">{children}</main>
           <Footer />
           <Analytics />
           <TailwindIndicator />
