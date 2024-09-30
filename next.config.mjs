@@ -8,6 +8,8 @@ const nextConfig = {
     output: 'export',
     distDir: 'docs',
     assetPrefix: '.',
+    basePath: '/wemedia',
+    trailingSlash: true,
   }),
 };
 
