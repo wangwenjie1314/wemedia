@@ -1,18 +1,285 @@
-0:["RS8nvEpH6_D2pKNYW3kX1",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,"$L3",null]],[[["$","link","0",{"rel":"stylesheet","href":"/wemedia/_next/static/css/a301f51f6ce79cad.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
-4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"自媒体、出海记"}],["$","meta","3",{"name":"description","content":"记录自媒体还有出海的一步步"}],["$","link","4",{"rel":"author","href":"https://weijunext.com"}],["$","meta","5",{"name":"author","content":"jon"}],["$","meta","6",{"name":"keywords","content":"WeMedia goout"}],["$","meta","7",{"name":"creator","content":"@jon.wang"}],["$","meta","8",{"property":"og:title","content":"自媒体、出海记"}],["$","meta","9",{"property":"og:description","content":"记录自媒体还有出海的一步步"}],["$","meta","10",{"property":"og:url","content":"https://wangwenjie1314.github.io/WeMedia/"}],["$","meta","11",{"property":"og:site_name","content":"自媒体、出海记"}],["$","meta","12",{"property":"og:locale","content":"en_US"}],["$","meta","13",{"property":"og:image","content":"https://wangwenjie1314.github.io/WeMedia//og.jpg"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:site","content":"https://wangwenjie1314.github.io/WeMedia/"}],["$","meta","17",{"name":"twitter:creator","content":"@jon.wang"}],["$","meta","18",{"name":"twitter:title","content":"自媒体、出海记"}],["$","meta","19",{"name":"twitter:description","content":"记录自媒体还有出海的一步步"}],["$","meta","20",{"name":"twitter:image","content":"https://wangwenjie1314.github.io/WeMedia//og.jpg"}],["$","link","21",{"rel":"shortcut icon","href":"/logo.png"}],["$","link","22",{"rel":"icon","href":"/favicon.ico"}],["$","link","23",{"rel":"apple-touch-icon","href":"/logo.png"}]]
+0:["nIEEUrWgs2mmw-XOquN5L",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,"$L3",null]],[[["$","link","0",{"rel":"stylesheet","href":"/wemedia/_next/static/css/a301f51f6ce79cad.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"一凡追梦"}],["$","meta","3",{"name":"description","content":"记录自媒体还有出海的一步步"}],["$","link","4",{"rel":"author","href":"https://weijunext.com"}],["$","meta","5",{"name":"author","content":"jon"}],["$","meta","6",{"name":"keywords","content":"WeMedia goout"}],["$","meta","7",{"name":"creator","content":"@jon.wang"}],["$","meta","8",{"property":"og:title","content":"一凡追梦"}],["$","meta","9",{"property":"og:description","content":"记录自媒体还有出海的一步步"}],["$","meta","10",{"property":"og:url","content":"https://wangwenjie1314.github.io/WeMedia/"}],["$","meta","11",{"property":"og:site_name","content":"一凡追梦"}],["$","meta","12",{"property":"og:locale","content":"en_US"}],["$","meta","13",{"property":"og:image","content":"https://wangwenjie1314.github.io/WeMedia//og.jpg"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:site","content":"https://wangwenjie1314.github.io/WeMedia/"}],["$","meta","17",{"name":"twitter:creator","content":"@jon.wang"}],["$","meta","18",{"name":"twitter:title","content":"一凡追梦"}],["$","meta","19",{"name":"twitter:description","content":"记录自媒体还有出海的一步步"}],["$","meta","20",{"name":"twitter:image","content":"https://wangwenjie1314.github.io/WeMedia//og.jpg"}],["$","link","21",{"rel":"shortcut icon","href":"/logo.png"}],["$","link","22",{"rel":"icon","href":"/favicon.ico"}],["$","link","23",{"rel":"apple-touch-icon","href":"/logo.png"}]]
 1:null
-5:I[1515,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],"ThemeProvider"]
-6:I[4861,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","132","static/chunks/132-800ae5affcadfd3a.js","81","static/chunks/81-039be35b9ae813f5.js","931","static/chunks/app/page-1a1493d6d9a40fec.js"],""]
-7:I[1173,["173","static/chunks/173-193adc3631b22eed.js","132","static/chunks/132-800ae5affcadfd3a.js","160","static/chunks/app/not-found-bf41a2e91e3c33f9.js"],"Image"]
-8:I[256,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],""]
-a:I[9803,[],""]
-b:I[232,[],""]
-c:I[4369,["173","static/chunks/173-193adc3631b22eed.js","132","static/chunks/132-800ae5affcadfd3a.js","160","static/chunks/app/not-found-bf41a2e91e3c33f9.js"],""]
-d:I[7886,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],"Analytics"]
-e:I[8580,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],""]
-f:I[2004,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],""]
-11:I[5161,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","132","static/chunks/132-800ae5affcadfd3a.js","81","static/chunks/81-039be35b9ae813f5.js","931","static/chunks/app/page-1a1493d6d9a40fec.js"],""]
-9:Td20,
+6:I[5161,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","132","static/chunks/132-800ae5affcadfd3a.js","81","static/chunks/81-039be35b9ae813f5.js","931","static/chunks/app/page-1a1493d6d9a40fec.js"],""]
+8:I[1515,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],"ThemeProvider"]
+9:I[4861,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],""]
+a:I[1173,["173","static/chunks/173-193adc3631b22eed.js","132","static/chunks/132-800ae5affcadfd3a.js","160","static/chunks/app/not-found-bf41a2e91e3c33f9.js"],"Image"]
+b:I[256,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],""]
+10:I[9803,[],""]
+11:I[232,[],""]
+12:I[4369,["173","static/chunks/173-193adc3631b22eed.js","132","static/chunks/132-800ae5affcadfd3a.js","160","static/chunks/app/not-found-bf41a2e91e3c33f9.js"],""]
+13:I[7886,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],"Analytics"]
+14:I[8580,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],""]
+15:I[2004,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],""]
+2:["$","div",null,{"className":"flex flex-row w-full pt-12","children":[["$","div",null,{"className":"hidden md:block md:w-1/5 pl-6"}],["$","div",null,{"className":"w-full md:w-3/5 px-6","children":["$L5",["$","$L6",null,{}]]}],["$","div",null,{"className":"hidden md:flex justify-end md:w-1/5 pr-6 text-right","children":"$L7"}]]}]
+c:Tfee,
+## Flux.1 生成美图、美女的提示词！需要的收藏
+
+架构一：
+
+国籍+五官特征+发型服装+环境背景+自然光线+自拍角度+逼真风格
+
+```
+The photograph captures a young Asian woman in a gym setting,taking a selfie. She has a fair complexion and a delicate,oval face with delicate features. Her dark hair is neatly tied back,revealing her symmetrical face with large,almond-shaped eyes,a small nose,and full lips. She wears a black tank top with thin white straps,accentuating her slender physique and modest breast size. The background shows a treadmill with a control panel and a red emergency stop button,indicating a fitness center or gym environment. The overall composition is sharp and detailed,focusing on her face and upper body,
+```
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464529394-image%20(3).webp)
+
+
+架构二：
+
+国籍+五官特征+发型服装+文字形式环境背景+自然光线+自拍角度+逼真风格
+
+```
+Messy hair, brown hair, moles on the face, double eyelids, 20-year-old Japanese girl, high-definition details, skin texture, natural eyebrows, freckles, rough skin, natural light, selfie angle, high-quality,she held a piece of paper with the words "xiaozhi" written on it,This is a high-resolution everyday scene image with a natural style
+```
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464508240-image%20(2).webp)
+
+
+
+
+架构三:
+
+国籍+戴口罩+紧身服装+姿势+环境背景+时尚风格
+
+```
+fujifilm, Real style photosa woman sitting on a couch wearing a face mask, woman wearing a mask sitting on a couch in a living room, surgical mask covering mouth, pantyhose tights, wearing translucent sheet, white
+stockings, gauze angel dress, anime barbie in white stockings, korean woman, beautiful south korean woman, soft white rubber, nurse girl, tights skin, white tights, wearing ivory colour dress, korean women's fashion model
+```
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464541315-ComfyUI_00010_.png)
+
+
+
+1、提示词
+
+```
+pretty Asian woman was holding the flowers in her hands, Korean Model, real photo style, full body shot.
+```
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464075736-image.png)
+
+
+2、提示词
+
+```
+One girl, long hair, model, white background, white shirt, khaki Capri pants, khaki loafers, sitting on a stool, lazy pose, slightly tilting head, smiling, Asian beauty, loose-fitting clothes, hands placed in front of body, slightly raised foot, half-body shot, Canon R5 camera style, blurred background, indoor, natural light, some sunlight shining on the face，9:16.
+```
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464114784-image.png)
+
+
+3、提示词
+```
+Adult boy, successful person, Asian, happy,solid color background, C4D rendering, Pixar，9:16.
+```
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464186541-image.png)
+
+
+4、提示词
+
+```
+a very beautiful girl in the bus window, photorealism, perspective，9:16.
+```
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464234172-image.png)
+
+
+5、提示词
+
+```
+Elon Musk caricature, in the style of michael hussar, caricature faces, angelina wrona, dark white and azure, expressive eyes, celebrity-portraits, high resolution，9:16
+```
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464249568-image.png)
+
+
+6、提示词
+
+```
+a portal into a mythical forest on the wall of my small messy bedroom.
+```
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464262640-image.png)
+
+
+7、提示词
+
+```
+Two young Japanese women walking in a Tokyo alley
+```
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464276316-image.png)
+
+8、提示词
+
+```
+Two young Japanese women, one wearing a red top and blue jeans, the other wearing a white top and jeans, both holding umbrellas, walking on the streets of Tokyo
+```
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464289961-image.png)
+
+
+d:Tcf1,
+## 写在前面
+
+受《用AI做美女博主号赢麻了》启发，准备做自媒体账号矩阵，
+
+技术思路：Flux出美女图 直接发小红书、小绿书；klingai让图片动起来做短视频发抖音、快手、蝴蝶号；
+营造一个美女日常；
+
+## 学习教程：
+
+1、[本地部署Flux.1最强文生图大模型！Comfyui 一键安装，简单又方便](https://wangwenjie1314.github.io/wemedia/weekly/2024-10-07-001/) 
+
+
+## Flux由于吃配置，改用云服务跑通
+
+0、云镜像：[https://www.codewithgpu.com/i/black-forest-labs/flux/Flux](https://www.codewithgpu.com/i/black-forest-labs/flux/Flux)
+
+
+我是按照作者的教程一步步执行，但是在出图环节我卡住了，之前没接触过ComfyUI，现在通过学习，完善下使用教程，希望对大家有所帮助 ^ _ ^
+
+1、选3080的机子：
+
+显存 >= 18G + CUDA版本>=11.8
+
+2、开机后依次执行：
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-417830533-HPOOFqSvt6B9plPnlNBB.png)
+
+执行完毕后为下图
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-198273124-j8JNTf2EGfOnnYgoWQnd.png)
+
+3、执行完后，启动ComfyUI
+
+在终端：
+
+```
+cd /ComfyUI
+python main.py   --use-split-cross-attention   --force-fp16   --port 8080
+```
+
+然后启动成功后
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-522692762-3pr6GMBHr0anPBYmmU4U.png)
+
+4、连接8080端口
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-958031859-VjHDQjs3E3k5kzOqZ0oI.png)
+
+5、成功后地址栏访问：
+
+http://127.0.0.1:8080/
+
+6、此时，就可能遇到问题了：
+
+就是下图，一下子就蒙了，不会用了。
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-837581701-YeDzfqQ9eMRlZTFEcokU.png)
+
+此时，我们需要访问：
+
+[https://comfyanonymous.github.io/ComfyUI_examples/flux/](https://comfyanonymous.github.io/ComfyUI_examples/flux/) 将对应flux版本的图片保存到本地
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-14269876-ChH2iX9xnIx4Aw7XmgK9.png)
+
+7、然后再将下载的这张图片拖到ComfyUI面板上
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-752320032-RdTIFwnSeizd2UAZEpt9.png)
+
+然后界面立马变了
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-564044490-lo3N8zYqKtDsImeGDuHy.png)
+
+至于我截图中的中文语言 需要下载[https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation) 然后 将 下载后的ZIP 包解压到 ComfyUI\custom_nodes 目录中，再重新启动后 设置为中文
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-772095446-8KUyKUCEtGe7kFWOZOe1.png)
+
+然后修改下配置：
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-888908031-Bk7JOPj9AXo1JWjgb76t.png)
+
+
+
+输入提示词 [美图提示词大全](https://wangwenjie1314.github.io/wemedia/weekly/2024-10-09-002/) 出图：
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-752104314-D6ePkP9VgtXLaIIyWecO.png)
+e:Tec4,
+> 最近,由前 Stability AI员工创立的黑森林实验室推出了开源图像生成模型Flux.1,可谓名声大噪，爆火全网。零度刚才已经上手使用，效果确实让我大吃一惊，真的很强！！！
+
+# 视频教程
+
+[https://www.youtube.com/watch?v=87TwZ05SSGc](https://www.youtube.com/watch?v=87TwZ05SSGc)
+
+# 图文教程
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464656947-image.png)
+
+
+Flux.1 是一款免费开源的模型,性能可与Midjourney V6媲美。用户可通过Comfyui调用Flux.1。本文我将详细介绍其使用流程，即使你是新手小白，只要紧跟我的步骤，相信你也能使用上这款非常强悍的文生图模型。
+
+Flux 模型总共有3个，分别是：Flux Pro、Flux Dev、Flux Schnell，下面是其性能的对照图
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464672718-image.png)
+
+
+[pro] 是最顶级的模型，但是只能通过 API 调用；
+[dev] 是由[pro]提炼，开源但非商用，质量和效果与[pro]类似；
+[schnell] 是经过蒸馏的 4 步模型，速度比 [dev] 快 10 倍，Apache 2 开源许可。
+
+
+目前 ComfyUI 已支持此模型，更新到最新版即可使用。
+
+1.下载最新版 ComfyUI： 【[官方下载](https://github.com/comfyanonymous/ComfyUI)】 、或【[备用下载](https://www.dongli7.com/forum.php?mod=viewthread&tid=4)】，下载后解压出来待用
+
+2.设置中文语言：【[点击下载](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation)】中文语言包，将 ZIP 包解压到 ComfyUI\custom_nodes 目录中
+
+3.下载 Flux 模型：FLUX 模型有四个可选，FLUX.1 [dev] 、FLUX.1 [dev] fp8、FLUX.1 [schnell]、FLUX.1 [schnell] fp8；
+
+① FLUX.1 [dev] ：官方版本满配版，最低显存要求24G；下载地址：
+                    【[点击下载](https://huggingface.co/black-forest-labs/FLUX.1-dev/tree/main)】或【[网盘打包下载](https://www.dongli7.com/forum.php?mod=viewthread&tid=5&page=1&extra=)】
+
+② FLUX.1 [dev] fp8：大佬优化 [dev] 后版本，建议选择此版本，最低 12G 显存可跑；
+                    【[点击下载](https://huggingface.co/Kijai/flux-fp8/blob/main/flux1-dev-fp8.safetensors)】或【[网盘打包下载](https://www.dongli7.com/forum.php?mod=viewthread&tid=5&page=1&extra=)】
+
+③ FLUX.1 [schnell]：4 步蒸馏模型，大多数显卡可跑。
+                     【[点击下载](https://huggingface.co/black-forest-labs/FLUX.1-schnell/blob/main/flux1-schnell.safetensors)】或【[网盘打包下载](https://www.dongli7.com/forum.php?mod=viewthread&tid=5&page=1&extra=)】
+
+④ FLUX.1 [schnell] fp8：优化 版本，适应更低的显卡配置。
+【[点击下载](https://huggingface.co/Kijai/flux-fp8/blob/main/flux1-schnell-fp8.safetensors)】或【[网盘打包下载](https://www.dongli7.com/forum.php?mod=viewthread&tid=5&page=1&extra=)】
+
+不管你下载上面的哪个模型，都存放在这个：ComfyUI/models/unet/ 目录下
+
+4.下载 CLIP 模型：
+
+需下载 t5xxl_fp16.safetensors 或 t5xxl_fp8_e4m3fn.safetensors （建议选择fp8 版本，如果你显存超过 32G 可选择 fp16 版本）
+
+还有 clip_l.safetensors 到 ComfyUI/models/clip/ 目录中： 【[点击前往](https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main)】
+
+5.下载 VAE 模型：【[点击下载](https://huggingface.co/black-forest-labs/FLUX.1-schnell/blob/main/ae.safetensors)】存放至 ComfyUI/models/vae/ 目录，
+
+
+flux_schnell_example 示例获取：[https://comfyanonymous.github.io/ComfyUI_examples/flux/](https://comfyanonymous.github.io/ComfyUI_examples/flux/)
+
+
+6.美图生成提示词：[美图提示词大全](https://wangwenjie1314.github.io/wemedia/weekly/2024-10-09-002/) 
+
+
+
+
+
+f:Td20,
 
 ## 写在前面
 
@@ -88,9 +355,8 @@ f:I[2004,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173
 
 
 
-3:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"min-h-screen bg-background antialiased","children":[["$","$L5",null,{"attribute":"class","enableSystem":false,"defaultTheme":"dark","forcedTheme":"dark","children":[["$","header",null,{"className":"mx-auto max-w-5xl px-4 py-3 border-b border-gray-600 sticky top-0 bg-background z-50","children":["$","nav",null,{"className":"relative z-50 flex justify-between","children":[["$","div",null,{"className":"flex items-center md:gap-x-12","children":[["$","$L6",null,{"href":"/","className":"flex items-center space-x-1 font-bold","children":[["$","$L7",null,{"alt":"自媒体、出海记","src":{"src":"/wemedia/_next/static/media/logo.0be96b97.svg","height":128,"width":128,"blurWidth":0,"blurHeight":0},"className":"w-8 h-8","width":24,"height":24}],["$","span",null,{"className":"text-gray-100 hidden sm:block","children":"自媒体、出海记"}]]}],["$","div",null,{"className":"hidden md:flex md:gap-x-6"}]]}],["$","div",null,{"className":"flex items-center","children":[["$","$L8",null,{"posts":[{"id":"2024-09","metadata":{"title":"出海工具箱","slug":"2024-09-30-001","date":"$D2024-09-30T00:00:00.000Z"},"title":"出海工具箱","slug":"2024-09-30-001","content":"\n## 写在前面\n\n本工具箱长期更新，旨在追寻最接地气的出海资讯；\n\n\n## 大神出海\n\n- [信息差——独立开发者出海周刊](https://gapis.money/)\n\n- [J实验室](https://weijunext.com/)\n\n- [Next.js 中文文档!](https://nextjscn.org/docs)\n\n- [为什么Chrome扩展是独立开发者的绝佳入场机会?](https://mp.weixin.qq.com/s/QkgJuHoH6zr87wbYMFM4Rg)\n\n"},{"id":"2024-06","metadata":{"title":"自媒体工具箱","slug":"2024-06-15-001","date":"$D2024-06-15T00:00:00.000Z"},"title":"自媒体工具箱","slug":"2024-06-15-001","content":"$9"}]}],["$","div",null,{"className":"flex flex-row items-center","children":[["$","$L6","repo",{"href":"https://github.com/wangwenjie1314/WeMedia","target":"_blank","rel":"noopener norefferer nofollow","className":"mx-3 flex max-w-[24px] flex-col items-center justify-center","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 16 16","className":"text-lg","children":["$undefined",[["$","path","0",{"d":"M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}]]}]]}]]}]}],["$","main",null,{"className":"flex flex-col items-center py-6 bg-background","children":["$","$La",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"mx-automax-h-screen flex flex-col items-center","children":[["$","$L7",null,{"src":"/404.svg","alt":"404","width":128,"height":128}],["$","div",null,{"className":"w-full text-center mt-8 flex flex-col sm:flex-row gap-2","children":[["$","$Lc",null,{"name":"回到首页","href":"/","target":"_self"}],["$","$Lc",null,{"name":"Github","href":"https://github.com/wangwenjie1314/"}]]}]]}],"notFoundStyles":[],"styles":null}]}],["$","footer",null,{"children":["$","div",null,{"className":"pt-16 space-y-2 pb-4 flex flex-col items-center text-sm text-gray-400 border-t border-gray-600","children":[["$","div",null,{"className":"mx-auto flex flex-row items-center pb-2","children":[["$","$L6","email",{"href":"mailto:1662484899@qq.com","target":"_blank","rel":"noopener noreferrer nofollow","className":"mx-3 flex max-w-[24px] flex-col items-center justify-center","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 24 24","className":"text-lg","children":["$undefined",[["$","path","0",{"fill":"none","d":"M0 0h24v24H0z","children":[]}],["$","path","1",{"d":"M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}],["$","$L6","github",{"href":"https://github.com/wangwenjie1314/","target":"_blank","rel":"noopener noreferrer nofollow","className":"mx-3 flex max-w-[24px] flex-col items-center justify-center","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 16 16","className":"text-lg","children":["$undefined",[["$","path","0",{"d":"M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}]]}],["$","div",null,{"className":"flex space-x-2 flex-wrap justify-center","children":[]}],["$","div",null,{"className":"flex space-x-2","children":[["$","div",null,{"children":"©2024"}]," ",["$","$L6",null,{"href":"https://twitter.com/weijunext","target":"_blank","children":"jon"}]," ",["$","div",null,{"children":"All rights reserved."}]]}]]}]}],["$","$Ld",null,{}],null]}],[["$","$Le",null,{}],["$","$Lf",null,{}]]]}]]}]
-2:["$","div",null,{"className":"flex flex-row w-full pt-12","children":[["$","div",null,{"className":"hidden md:block md:w-1/5 pl-6"}],["$","div",null,{"className":"w-full md:w-3/5 px-6","children":["$L10",["$","$L11",null,{}]]}],["$","div",null,{"className":"hidden md:flex justify-end md:w-1/5 pr-6 text-right","children":"$L12"}]]}]
-13:I[8256,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","132","static/chunks/132-800ae5affcadfd3a.js","81","static/chunks/81-039be35b9ae813f5.js","931","static/chunks/app/page-1a1493d6d9a40fec.js"],"ScrollArea"]
-14:I[9024,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","132","static/chunks/132-800ae5affcadfd3a.js","81","static/chunks/81-039be35b9ae813f5.js","931","static/chunks/app/page-1a1493d6d9a40fec.js"],"Separator"]
-10:["$","ul",null,{"className":"flex flex-col gap-4","children":[["$","li","2024-09-30-001",{"id":"2024-09","className":"flex flex-col sm:flex-row gap-4 items-start","children":[["$","span",null,{"className":"text-[#8585a8] min-w-28","children":"2024-09-30"}],["$","$L6",null,{"href":"/weekly/2024-09-30-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"出海工具箱"}]]}],["$","li","2024-06-15-001",{"id":"2024-06","className":"flex flex-col sm:flex-row gap-4 items-start","children":[["$","span",null,{"className":"text-[#8585a8] min-w-28","children":"2024-06-15"}],["$","$L6",null,{"href":"/weekly/2024-06-15-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"自媒体工具箱"}]]}]]}]
-12:["$","$L13",null,{"className":"h-72 w-32 rounded-md border border-gray-600 sticky top-0","style":{"position":"sticky"},"children":["$","div",null,{"className":"p-4","children":[["$","h4",null,{"className":"mb-4 text-sm font-medium leading-none","children":["$","$L6",null,{"href":"/","children":"时间线"}]}],[["$","div","2024-09",{"children":[["$","$L6",null,{"href":"#2024-09","children":"2024-09"}],["$","$L14",null,{"className":"my-2 bg-gray-600"}]]}],["$","div","2024-06",{"children":[["$","$L6",null,{"href":"#2024-06","children":"2024-06"}],["$","$L14",null,{"className":"my-2 bg-gray-600"}]]}]]]}]}]
+3:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"min-h-screen bg-background antialiased","children":[["$","$L8",null,{"attribute":"class","enableSystem":false,"defaultTheme":"dark","forcedTheme":"dark","children":[["$","header",null,{"className":"mx-auto max-w-5xl px-4 py-3 border-b border-gray-600 sticky top-0 bg-background z-50","children":["$","nav",null,{"className":"relative z-50 flex justify-between","children":[["$","div",null,{"className":"flex items-center md:gap-x-12","children":[["$","$L9",null,{"href":"/","className":"flex items-center space-x-1 font-bold","children":[["$","$La",null,{"alt":"一凡追梦","src":{"src":"/wemedia/_next/static/media/logo.0be96b97.svg","height":128,"width":128,"blurWidth":0,"blurHeight":0},"className":"w-8 h-8","width":24,"height":24}],["$","span",null,{"className":"text-gray-100 hidden sm:block","children":"一凡追梦"}]]}],["$","div",null,{"className":"hidden md:flex md:gap-x-6"}]]}],["$","div",null,{"className":"flex items-center","children":[["$","$Lb",null,{"posts":[{"id":"2024-10","metadata":{"title":"Flux美图提示词大全","slug":"2024-10-09-002","date":"$D2024-10-09T00:00:00.000Z"},"title":"Flux美图提示词大全","slug":"2024-10-09-002","content":"$c"},{"id":"2024-10","metadata":{"title":"Flux+ComfyUI文生图云服务实操教程","slug":"2024-10-09-001","date":"$D2024-10-09T00:00:00.000Z"},"title":"Flux+ComfyUI文生图云服务实操教程","slug":"2024-10-09-001","content":"$d"},{"id":"2024-10","metadata":{"title":"Flux.1本地部署最强文生图大模型！Comfyui 一键安装，简单又方便","slug":"2024-10-07-001","date":"$D2024-10-07T00:00:00.000Z"},"title":"Flux.1本地部署最强文生图大模型！Comfyui 一键安装，简单又方便","slug":"2024-10-07-001","content":"$e"},{"id":"2024-09","metadata":{"title":"出海工具箱","slug":"2024-09-30-001","date":"$D2024-09-30T00:00:00.000Z"},"title":"出海工具箱","slug":"2024-09-30-001","content":"\n## 写在前面\n\n本工具箱长期更新，旨在追寻最接地气的出海资讯；\n\n\n## 大神出海\n\n- [信息差——独立开发者出海周刊](https://gapis.money/)\n\n- [J实验室](https://weijunext.com/)\n\n- [Next.js 中文文档!](https://nextjscn.org/docs)\n\n- [为什么Chrome扩展是独立开发者的绝佳入场机会?](https://mp.weixin.qq.com/s/QkgJuHoH6zr87wbYMFM4Rg)\n\n"},{"id":"2024-06","metadata":{"title":"自媒体工具箱","slug":"2024-06-15-001","date":"$D2024-06-15T00:00:00.000Z"},"title":"自媒体工具箱","slug":"2024-06-15-001","content":"$f"}]}],["$","div",null,{"className":"flex flex-row items-center","children":[["$","$L9","repo",{"href":"https://github.com/wangwenjie1314/WeMedia","target":"_blank","rel":"noopener norefferer nofollow","className":"mx-3 flex max-w-[24px] flex-col items-center justify-center","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 16 16","className":"text-lg","children":["$undefined",[["$","path","0",{"d":"M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}]]}]]}]]}]}],["$","main",null,{"className":"flex flex-col items-center py-6 bg-background","children":["$","$L10",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"mx-automax-h-screen flex flex-col items-center","children":[["$","$La",null,{"src":"/404.svg","alt":"404","width":128,"height":128}],["$","div",null,{"className":"w-full text-center mt-8 flex flex-col sm:flex-row gap-2","children":[["$","$L12",null,{"name":"回到首页","href":"/","target":"_self"}],["$","$L12",null,{"name":"Github","href":"https://github.com/wangwenjie1314/"}]]}]]}],"notFoundStyles":[],"styles":null}]}],["$","footer",null,{"children":["$","div",null,{"className":"pt-16 space-y-2 pb-4 flex flex-col items-center text-sm text-gray-400 border-t border-gray-600","children":[["$","div",null,{"className":"mx-auto flex flex-row items-center pb-2","children":[["$","$L9","email",{"href":"mailto:1662484899@qq.com","target":"_blank","rel":"noopener noreferrer nofollow","className":"mx-3 flex max-w-[24px] flex-col items-center justify-center","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 24 24","className":"text-lg","children":["$undefined",[["$","path","0",{"fill":"none","d":"M0 0h24v24H0z","children":[]}],["$","path","1",{"d":"M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}],["$","$L9","github",{"href":"https://github.com/wangwenjie1314/","target":"_blank","rel":"noopener noreferrer nofollow","className":"mx-3 flex max-w-[24px] flex-col items-center justify-center","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 16 16","className":"text-lg","children":["$undefined",[["$","path","0",{"d":"M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}]]}],["$","div",null,{"className":"flex space-x-2 flex-wrap justify-center","children":[]}],["$","div",null,{"className":"flex space-x-2","children":[["$","div",null,{"children":"©2024"}]," ",["$","$L9",null,{"href":"https://twitter.com/weijunext","target":"_blank","children":"jon"}]," ",["$","div",null,{"children":"All rights reserved."}]]}]]}]}],["$","$L13",null,{}],null]}],[["$","$L14",null,{}],["$","$L15",null,{}]]]}]]}]
+16:I[8256,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","132","static/chunks/132-800ae5affcadfd3a.js","81","static/chunks/81-039be35b9ae813f5.js","931","static/chunks/app/page-1a1493d6d9a40fec.js"],"ScrollArea"]
+17:I[9024,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","132","static/chunks/132-800ae5affcadfd3a.js","81","static/chunks/81-039be35b9ae813f5.js","931","static/chunks/app/page-1a1493d6d9a40fec.js"],"Separator"]
+5:["$","ul",null,{"className":"flex flex-col gap-4","children":[["$","li","2024-10-09-002",{"id":"2024-10","className":"flex flex-col sm:flex-row gap-4 items-start","children":[["$","span",null,{"className":"text-[#8585a8] min-w-28","children":"2024-10-09"}],["$","$L9",null,{"href":"/weekly/2024-10-09-002","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"Flux美图提示词大全"}]]}],["$","li","2024-10-09-001",{"id":"2024-10","className":"flex flex-col sm:flex-row gap-4 items-start","children":[["$","span",null,{"className":"text-[#8585a8] min-w-28","children":"2024-10-09"}],["$","$L9",null,{"href":"/weekly/2024-10-09-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"Flux+ComfyUI文生图云服务实操教程"}]]}],["$","li","2024-10-07-001",{"id":"2024-10","className":"flex flex-col sm:flex-row gap-4 items-start","children":[["$","span",null,{"className":"text-[#8585a8] min-w-28","children":"2024-10-07"}],["$","$L9",null,{"href":"/weekly/2024-10-07-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"Flux.1本地部署最强文生图大模型！Comfyui 一键安装，简单又方便"}]]}],["$","li","2024-09-30-001",{"id":"2024-09","className":"flex flex-col sm:flex-row gap-4 items-start","children":[["$","span",null,{"className":"text-[#8585a8] min-w-28","children":"2024-09-30"}],["$","$L9",null,{"href":"/weekly/2024-09-30-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"出海工具箱"}]]}],["$","li","2024-06-15-001",{"id":"2024-06","className":"flex flex-col sm:flex-row gap-4 items-start","children":[["$","span",null,{"className":"text-[#8585a8] min-w-28","children":"2024-06-15"}],["$","$L9",null,{"href":"/weekly/2024-06-15-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"自媒体工具箱"}]]}]]}]
+7:["$","$L16",null,{"className":"h-72 w-32 rounded-md border border-gray-600 sticky top-0","style":{"position":"sticky"},"children":["$","div",null,{"className":"p-4","children":[["$","h4",null,{"className":"mb-4 text-sm font-medium leading-none","children":["$","$L9",null,{"href":"/","children":"时间线"}]}],[["$","div","2024-10",{"children":[["$","$L9",null,{"href":"#2024-10","children":"2024-10"}],["$","$L17",null,{"className":"my-2 bg-gray-600"}]]}],["$","div","2024-09",{"children":[["$","$L9",null,{"href":"#2024-09","children":"2024-09"}],["$","$L17",null,{"className":"my-2 bg-gray-600"}]]}],["$","div","2024-06",{"children":[["$","$L9",null,{"href":"#2024-06","children":"2024-06"}],["$","$L17",null,{"className":"my-2 bg-gray-600"}]]}]]]}]}]

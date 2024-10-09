@@ -6,6 +6,18 @@ An independent website created based on the weekly template to record self media
 
 Relying on the ability to showcase on GitHub pages.
 
+## How to build
+
+```
+yarn dev
+```
+
+```
+yarn build
+
+git commit
+```
+
 ## How to create markdown page
 
 [Markdown Editor](https://wangwenjie1314.github.io/mdnice/)

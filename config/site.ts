@@ -3,7 +3,7 @@ import { BsGithub } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 
 const baseSiteConfig = {
-  name: "自媒体、出海记",
+  name: "一凡追梦",
   description:
     "记录自媒体还有出海的一步步",
   url: "https://wangwenjie1314.github.io/WeMedia/",

@@ -19,7 +19,7 @@ const Header = ({ posts }: { posts: WeeklyPost[] }) => {
               width={24}
               height={24}
             />
-            <span className="text-gray-100 hidden sm:block">自媒体、出海记</span>
+            <span className="text-gray-100 hidden sm:block">一凡追梦</span>
           </Link>
           <div className="hidden md:flex md:gap-x-6"></div>
         </div>
