@@ -1,0 +1,90 @@
+---
+title: Flux+ComfyUI文生图云服务实操教程
+slug: 2024-10-09-001
+date: 2024-10-09
+---
+
+## 写在前面
+
+受《用AI做美女博主号赢麻了》启发，准备做自媒体账号矩阵，
+
+技术思路：Flux出美女图 直接发小红书、小绿书；klingai让图片动起来做短视频发抖音、快手、蝴蝶号；
+营造一个美女日常；
+
+## 学习教程：
+
+1、[本地部署Flux.1最强文生图大模型！Comfyui 一键安装，简单又方便](https://wangwenjie1314.github.io/wemedia/weekly/2024-10-09-003/) 
+
+
+## Flux由于吃配置，改用云服务跑通
+
+0、云镜像：[https://www.codewithgpu.com/i/black-forest-labs/flux/Flux](https://www.codewithgpu.com/i/black-forest-labs/flux/Flux)
+
+
+我是按照作者的教程一步步执行，但是在出图环节我卡住了，之前没接触过ComfyUI，现在通过学习，完善下使用教程，希望对大家有所帮助 ^ _ ^
+
+1、选3080的机子：
+
+显存 >= 18G + CUDA版本>=11.8
+
+2、开机后依次执行：
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-417830533-HPOOFqSvt6B9plPnlNBB.png)
+
+执行完毕后为下图
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-198273124-j8JNTf2EGfOnnYgoWQnd.png)
+
+3、执行完后，启动ComfyUI
+
+在终端：
+
+```
+cd /ComfyUI
+python main.py   --use-split-cross-attention   --force-fp16   --port 8080
+```
+
+然后启动成功后
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-522692762-3pr6GMBHr0anPBYmmU4U.png)
+
+4、连接8080端口
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-958031859-VjHDQjs3E3k5kzOqZ0oI.png)
+
+5、成功后地址栏访问：
+
+http://127.0.0.1:8080/
+
+6、此时，就可能遇到问题了：
+
+就是下图，一下子就蒙了，不会用了。
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-837581701-YeDzfqQ9eMRlZTFEcokU.png)
+
+此时，我们需要访问：
+
+[https://comfyanonymous.github.io/ComfyUI_examples/flux/](https://comfyanonymous.github.io/ComfyUI_examples/flux/) 将对应flux版本的图片保存到本地
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-14269876-ChH2iX9xnIx4Aw7XmgK9.png)
+
+7、然后再将下载的这张图片拖到ComfyUI面板上
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-752320032-RdTIFwnSeizd2UAZEpt9.png)
+
+然后界面立马变了
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-564044490-lo3N8zYqKtDsImeGDuHy.png)
+
+至于我截图中的中文语言 需要下载[https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation) 然后 将 下载后的ZIP 包解压到 ComfyUI\custom_nodes 目录中，再重新启动后 设置为中文
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-772095446-8KUyKUCEtGe7kFWOZOe1.png)
+
+然后修改下配置：
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-888908031-Bk7JOPj9AXo1JWjgb76t.png)
+
+
+
+输入提示词 [美图提示词大全](https://wangwenjie1314.github.io/wemedia/weekly/2024-10-09-002/) 出图：
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/317334-752104314-D6ePkP9VgtXLaIIyWecO.png)

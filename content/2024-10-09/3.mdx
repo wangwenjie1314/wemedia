@@ -1,0 +1,71 @@
+---
+title: 本地部署Flux.1最强文生图大模型！Comfyui 一键安装，简单又方便
+slug: 2024-10-09-003
+date: 2024-10-09
+---
+
+> 最近,由前 Stability AI员工创立的黑森林实验室推出了开源图像生成模型Flux.1,可谓名声大噪，爆火全网。零度刚才已经上手使用，效果确实让我大吃一惊，真的很强！！！
+
+# 视频教程
+
+[https://www.youtube.com/watch?v=87TwZ05SSGc](https://www.youtube.com/watch?v=87TwZ05SSGc)
+
+# 图文教程
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464656947-image.png)
+
+
+Flux.1 是一款免费开源的模型,性能可与Midjourney V6媲美。用户可通过Comfyui调用Flux.1。本文我将详细介绍其使用流程，即使你是新手小白，只要紧跟我的步骤，相信你也能使用上这款非常强悍的文生图模型。
+
+Flux 模型总共有3个，分别是：Flux Pro、Flux Dev、Flux Schnell，下面是其性能的对照图
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464672718-image.png)
+
+
+[pro] 是最顶级的模型，但是只能通过 API 调用；
+[dev] 是由[pro]提炼，开源但非商用，质量和效果与[pro]类似；
+[schnell] 是经过蒸馏的 4 步模型，速度比 [dev] 快 10 倍，Apache 2 开源许可。
+
+
+目前 ComfyUI 已支持此模型，更新到最新版即可使用。
+
+1.下载最新版 ComfyUI： 【[官方下载](https://github.com/comfyanonymous/ComfyUI)】 、或【[备用下载](https://www.dongli7.com/forum.php?mod=viewthread&tid=4)】，下载后解压出来待用
+
+2.设置中文语言：【[点击下载](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation)】中文语言包，将 ZIP 包解压到 ComfyUI\custom_nodes 目录中
+
+3.下载 Flux 模型：FLUX 模型有四个可选，FLUX.1 [dev] 、FLUX.1 [dev] fp8、FLUX.1 [schnell]、FLUX.1 [schnell] fp8；
+
+① FLUX.1 [dev] ：官方版本满配版，最低显存要求24G；下载地址：
+                    【[点击下载](https://huggingface.co/black-forest-labs/FLUX.1-dev/tree/main)】或【[网盘打包下载](https://www.dongli7.com/forum.php?mod=viewthread&tid=5&page=1&extra=)】
+
+② FLUX.1 [dev] fp8：大佬优化 [dev] 后版本，建议选择此版本，最低 12G 显存可跑；
+                    【[点击下载](https://huggingface.co/Kijai/flux-fp8/blob/main/flux1-dev-fp8.safetensors)】或【[网盘打包下载](https://www.dongli7.com/forum.php?mod=viewthread&tid=5&page=1&extra=)】
+
+③ FLUX.1 [schnell]：4 步蒸馏模型，大多数显卡可跑。
+                     【[点击下载](https://huggingface.co/black-forest-labs/FLUX.1-schnell/blob/main/flux1-schnell.safetensors)】或【[网盘打包下载](https://www.dongli7.com/forum.php?mod=viewthread&tid=5&page=1&extra=)】
+
+④ FLUX.1 [schnell] fp8：优化 版本，适应更低的显卡配置。
+【[点击下载](https://huggingface.co/Kijai/flux-fp8/blob/main/flux1-schnell-fp8.safetensors)】或【[网盘打包下载](https://www.dongli7.com/forum.php?mod=viewthread&tid=5&page=1&extra=)】
+
+不管你下载上面的哪个模型，都存放在这个：ComfyUI/models/unet/ 目录下
+
+4.下载 CLIP 模型：
+
+需下载 t5xxl_fp16.safetensors 或 t5xxl_fp8_e4m3fn.safetensors （建议选择fp8 版本，如果你显存超过 32G 可选择 fp16 版本）
+
+还有 clip_l.safetensors 到 ComfyUI/models/clip/ 目录中： 【[点击前往](https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main)】
+
+5.下载 VAE 模型：【[点击下载](https://huggingface.co/black-forest-labs/FLUX.1-schnell/blob/main/ae.safetensors)】存放至 ComfyUI/models/vae/ 目录，
+
+
+flux_schnell_example 示例获取：[https://comfyanonymous.github.io/ComfyUI_examples/flux/](https://comfyanonymous.github.io/ComfyUI_examples/flux/)
+
+
+6.美图生成提示词：[美图提示词大全](https://wangwenjie1314.github.io/wemedia/weekly/2024-10-09-002/) 
+
+
+
+
+
+
