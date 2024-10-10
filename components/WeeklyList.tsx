@@ -11,9 +11,16 @@ export default async function WeeklyList({
   posts: WeeklyPost[];
 }) {
   // const pathname = usePathname();
+  // 过滤掉配置hide的帖子
+  const visiblePosts = posts.filter(post => {
+    if (!post.metadata.hide) {
+      return post
+    } 
+  });
+
   return (
     <ul className="flex flex-col gap-4">
-      {posts.map((post) => (
+      {visiblePosts.map((post) => (
         <li
           id={post.id}
           key={post.metadata.slug}
