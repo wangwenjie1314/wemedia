@@ -1,19 +1,498 @@
 3:I[9803,[],""]
 5:I[232,[],""]
 4:["slug","2024-06-15-001","d"]
-0:["Bi9EVgHzd1J1psRtPbnBG",[[["",{"children":["weekly",{"children":[["slug","2024-06-15-001","d"],{"children":["__PAGE__?{\"slug\":\"2024-06-15-001\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["weekly",{"children":[["slug","2024-06-15-001","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/wemedia/_next/static/css/a301f51f6ce79cad.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
-8:I[1515,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],"ThemeProvider"]
-9:I[4861,["374","static/chunks/374-287c88ccdca643eb.js","750","static/chunks/app/weekly/%5Bslug%5D/page-5a6fb67ea1428b59.js"],""]
-a:I[1173,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],"Image"]
-b:I[256,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],""]
-11:I[4369,["173","static/chunks/173-193adc3631b22eed.js","132","static/chunks/132-800ae5affcadfd3a.js","160","static/chunks/app/not-found-bf41a2e91e3c33f9.js"],""]
-12:I[7886,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],"Analytics"]
-13:I[8580,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],""]
-14:I[2004,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],""]
-17:I[9024,["374","static/chunks/374-287c88ccdca643eb.js","750","static/chunks/app/weekly/%5Bslug%5D/page-5a6fb67ea1428b59.js"],"Separator"]
-18:I[9116,["374","static/chunks/374-287c88ccdca643eb.js","750","static/chunks/app/weekly/%5Bslug%5D/page-5a6fb67ea1428b59.js"],""]
-19:I[3,["374","static/chunks/374-287c88ccdca643eb.js","750","static/chunks/app/weekly/%5Bslug%5D/page-5a6fb67ea1428b59.js"],""]
-c:T82a,
+0:["giXDHqKKNApcTvW43E08G",[[["",{"children":["weekly",{"children":[["slug","2024-06-15-001","d"],{"children":["__PAGE__?{\"slug\":\"2024-06-15-001\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["weekly",{"children":[["slug","2024-06-15-001","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,"$L6",null]],[[["$","link","0",{"rel":"stylesheet","href":"/wemedia/_next/static/css/a301f51f6ce79cad.css","precedence":"next","crossOrigin":""}]],"$L7"]]]]
+a:I[9024,["374","static/chunks/374-287c88ccdca643eb.js","750","static/chunks/app/weekly/%5Bslug%5D/page-5a6fb67ea1428b59.js"],"Separator"]
+b:I[4861,["374","static/chunks/374-287c88ccdca643eb.js","750","static/chunks/app/weekly/%5Bslug%5D/page-5a6fb67ea1428b59.js"],""]
+c:I[9116,["374","static/chunks/374-287c88ccdca643eb.js","750","static/chunks/app/weekly/%5Bslug%5D/page-5a6fb67ea1428b59.js"],""]
+d:I[3,["374","static/chunks/374-287c88ccdca643eb.js","750","static/chunks/app/weekly/%5Bslug%5D/page-5a6fb67ea1428b59.js"],""]
+e:I[1515,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],"ThemeProvider"]
+f:I[1173,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],"Image"]
+10:I[256,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],""]
+18:I[4369,["173","static/chunks/173-193adc3631b22eed.js","132","static/chunks/132-800ae5affcadfd3a.js","160","static/chunks/app/not-found-bf41a2e91e3c33f9.js"],""]
+19:I[7886,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],"Analytics"]
+1a:I[8580,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],""]
+1b:I[2004,["374","static/chunks/374-287c88ccdca643eb.js","173","static/chunks/173-193adc3631b22eed.js","367","static/chunks/367-330922e3e4e4b004.js","185","static/chunks/app/layout-f99e74b2215823e8.js"],""]
+2:["$","div",null,{"className":"flex flex-row w-full pt-0","children":[["$","aside",null,{"className":"hidden md:block md:w-1/5 pl-6 max-h-[100vh] h-full overflow-auto sticky top-0 left-0","children":"$L8"}],["$","div",null,{"className":"w-full md:w-3/5 px-6","children":[["$","article",null,{"id":"article","children":[["$","h1",null,{"children":"自媒体工具箱"}],"$L9"]}],["$","$La",null,{"className":"my-12 bg-gray-600"}],["$","div",null,{"className":"flex justify-between","children":[["$","div",null,{"children":["发布时间：","2024-06-15"]}],["$","div",null,{"className":"flex gap-2 flex-col sm:flex-row","children":["$undefined",["$","$Lb",null,{"href":"2024-09-30-001","className":"link-underline","children":"下一篇"}],["$","$Lb",null,{"href":"/","className":"link-underline","children":"去首页"}]]}]]}],["$","$Lc",null,{}]]}],["$","div",null,{"className":"hidden md:flex flex-col justify-start md:w-1/5 pr-6","children":["$","$Ld",null,{}]}]]}]
+11:T15a5,
+文章开始之前，先考考大家对 AI 的识别能力，你看下面的图片哪些是真人照片？哪些是 AI 生成的？
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728979215369-image.png)
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728979247227-image.png)
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728979239550-image.png)
+
+
+给大家揭晓一下答案，上面的图片全是AI生成的！
+
+这是来自于最近在微信群里广泛流传的一个聊天记录，不知道大家有没有看到过：
+
+一个大哥用 AI 绘制美女照片，一个人批量操作 1000 多个小红书账号，霸屏了小红书「美女」关键词的首页。
+
+下图中的账号几乎全是他一个人搞的！
+
+用 AI 生成的美女图片不仅没有被平台识别出来，并且还给了推流！真的是强到离谱。
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728979266242-image.png)
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728979281344-image.png)
+
+
+厉害吧？
+
+不过 AI 制作美女也不是什么新项目了。
+
+之前就有很多 AI 美女号在各大自媒体平台涌现，但是因为不论是 MJ 还是 SD 制作的美女，都会有比较明显的 AI 味，比如 AI 画人的手指数量不对、磨皮感太强不真实。
+
+还因此出现了一些专门的 AI 美女打假博主，所以在平台对这类内容标注「AI 生成」之后，就昙花一现了。
+
+而这个大哥制作的图片，不仅没有被标注「AI 生成」，甚至还被推流了，彻底解决了之前的问题。为什么呢？
+
+其实也不是大哥的制作技术有多么厉害，而是新的 Flux 模型出来之后，能力相比之前的绘图工具有了巨大的提升。
+
+今天我们就来一起扒一扒，这个大哥的操作，包括：一、变现逻辑 和 二、制作方法。
+
+----
+
+一、变现逻辑
+
+1.涨粉卖账号
+
+根据大哥自己的描述，目前他的变现方式主要是通过养账号和卖账号。
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728979302548-image.png)
+
+我们知道，美女博主虽然涨粉很快，但是这种泛粉是没有接广告的商业价值的。
+
+不过平台开通商品挂货的橱窗是需要有一定的粉丝数量的，比如小红书蒲公英门槛是 1000 粉。所以商家需要大量的能挂货的账号，催生了这样的一条变现路径。
+
+
+2.卖周边给LSP
+
+这类账号关注的粉丝基本上都是男性 LSP，通过账号引流到私域，卖一些 LSP 喜欢的周边产品（至于哪些产品大家自己脑补一下，想不明白去美女直播间加个微信看看），LSP 们的消费能力还是比较强的。
+
+3.美女IP
+
+最难也是天花板最高的：
+
+依托 AI 绘图能力的提升，可以保持人物的一致性，并且可以轻松制作各类型的场景。
+
+「固定的人物」+「垂直的内容场景」=「美女个人 IP」
+
+类似于之前 ins 上爆火的那个 Aitana Lopez，据说月收入超过 10 万美金，内衣巨头「维多利亚的秘密」都和她合作了。
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728979320224-image.png)
+
+抛砖引玉，举个例子，比如最近比较火的女生自行车运动，就可以配合垂直的内容输出，打造一个自行车骑行的美女，这样的账号就非常有价值了，看看对标账号的评论区，就有很多自行车、衣服、装备的带货需求。
+
+当然这个对 AI 绘图技术的要求也是最高的。
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728979333150-image.png)
+
+
+二、制作方法
+
+用 Flux 来进行生成，能调用 Flux 的方式非常多，不管是 Webui 还是 Comfyui 都可以。
+
+比较简单的就是用国内的 [Liblib](https://www.liblib.art/)，有非常多训练好的 Flux LORA，每日有 300 积分可以免费使用，对于新手来说，生图完全够用。
+
+但是前提是需要有比较好的 AI 绘图基础，这个话题比较复杂，就不展开讲了，感兴趣的可以找教程看看，也可以找我要比较靠谱的教程建议。
+
+我们先来尝试一个最简单的，小白都能跟着操作的方法：
+
+1.打开 Liblib，搜索并选择一个 Flux 的亚洲人脸 LORA：
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728979348987-image.png)
+
+
+例如这个：
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728979360340-image.png)
+
+2.打开后已经设定好的 Flux 基础算法就可以了，Lora 也已经选好了刚刚挑选的亚洲人像。
+
+所以只需要输入提示词就，点击一键生图就好了。
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728979371079-image.png)
+
+tips：如果不知道提示词怎么写，可以找一个想模仿的对标照片，打开 WD1.4 标签器，直接上传让 AI 反推一个。
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728979382243-image.png)
+
+
+随便放几个我抽的卡，看看效果：
+
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728979395435-image.png)
+
+好了，简单的图片制作就是这样。如果要想进阶的话，就需要系统学习更多的 AI绘画技巧了。
+
+不过也不一定非得要技术多牛，关键是后面怎么变现，想清楚这个问题，匹配适合的技术水平就可以啦。
+
+大家也可以自己想想，这样的技术还可以怎样变现呢？
+
+
+
+
+
+
+
+12:T40bd,
+
+## 一个信息差价值成金
+FlUx 生成逼真美女，在小红书上做矩阵号，小红书没检测到是 Al，还给推流，把搜索页都占了。
+养了1300多个号，卖给商家
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977562252-image.png)
+
+## 二、小红书名媛
+
+小红书名媛的出图照片：
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977598164-image.png)
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977605976-image.png)
+
+## 三、丰富的lora
+Flux 生态已经很成熟了，有好多创作者炼制了各种风格、类型的lora。
+简单一点，在使用工作流时替换 1ora， 生成的模特就是不同 STYLE，御姐、萝莉都到碗里来。
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977631300-image.png)
+
+
+使用不同的lora 出的其他图片：
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977649080-image.png)
+
+## 四、换脸节点
+FlUx 工作流已经支持 PULID换脸节点了，即可一键出图。
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977671582-image.png)
+
+
+或者使用B站二狗子的黑神话工作流，就是一个进化版的换脸工作流。
+在哩布上就可以直接使用了。
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977687857-image.png)
+
+## 五、Flux 应用场景
+像小红书网红名媛项目，L权说他的主要模式是卖号。
+但是对我们其他人来说，还是得认真思考Flux 及 ComfyUl工作流在我们实际业务场景的结合应用。比如摄影、，商、数字人等领域。
+
+
+先科普下：xlabs 已经推出了基于 FLUX的Lora模型的训练脚本，我们在哩布上看到的脸模，其实都是创作者炼制的。简单一点，在使用工作流时替换lora， 生成的模特就是不同STYLE，御姐、萝莉都到碗里来。
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977753084-image.png)
+
+
+lora地址：[小红书网红纯欲人像风格](https://www.liblib.art/modelinfo/58c90e50b7014aa685bb3b24922df1c9?from=personal_page&versionUuid=6f4a693135ac4d5ca50845bf6cf87339)
+
+•便用方法也简单：
+在模型或者 lora 页面，看到满意的图片，点击 一键生图 在线生成图片
+
+1.在lora界面，点击 一键生图 在线生成图片
+
+2.在lora 的返图区，直接点击一键生图，在线生成
+
+3.如果要修改提示词，在提示词输入区域输入修改过的英文提示词。
+
+4. 点击开始生图后，等待生成图片。(生成后也可以在哩布的图库中找到所有图片）
+
+触发词：girl
+
+推荐底膜：F1基础算法模型（系统默认，无需修改）
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977789416-image.png)
+
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977798156-image.png)
+
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977807465-image.png)
+
+
+
+### 初恋女孩：
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977866662-image.png)
+
+
+```
+提示词: of a young Asian woman seated on a gray upholstered bench in a modern, minimalist room. She has
+long, straight brown hair and a fair complexion. Her eyes are closed,and she has a serene expression, with her
+head tilted slightly to the left and her right hand gently touching her cheek. She is wearing a form-fitting, white
+sequin mini dress that accentuates her slender physique and small breasts. Over her shoulders, she has on a
+sheer, white chiffon robe that drapes loosely, adding a soft, ethereal quality to her outfit. Her pose is relaxed,with
+her left hand resting on her thigh and her right arm draped over the back of the bench. The background features
+a large window with horizontal blinds, through which greenery and a modern building can be seen, indicating an
+urban setting. The overall ambiance is calm and elegant,with a focus on soft textures and neutral tones.,
+```
+
+### 秋天的童话：
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977900717-image.png)
+
+
+```
+This is a high-resolution photograph of a young East Asian woman standing outdoors in a lush, green
+forest. She has long, straight, jet-black hair that falls past her shoulders. Her skin is fair and smooth, with a
+natural, even complexion. She is wearing a form-fitting, sleeveless, ribbed pink dress that accentuates her
+slender, petite figure and small breasts. The dress has thin spaghetti straps and hugs her body, highlighting her
+curves.The woman's facial features are delicate, with high cheekbones, a small nose, and full lips painted with a
+bold red lipstick. She has a neutral expression, looking directly at the camera with a slight, enigmatic smile. Her
+eyes are large and dark, adding to her striking appearance.The background consists of tall, slender trees with
+green leaves, creating a natural, serene atmosphere. Sunlight filters through the leaves, casting dappled
+shadows on the ground and her dress. The sky is a clear, vibrant blue with a few white clouds, suggesting a
+sunny day. The overall mood of the image is tranquil and slightly intimate, capturing the essence of a serene,
+natural environment.
+```
+
+
+### 骑行女孩：
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977938679-image.png)
+
+
+```
+of a young woman posing with a bicycle in a rural setting. The image is a high-resolution photograph
+taken outdoors on a clear, sunny day. The subject is a slender, Caucasian woman with long, straight, brown hair
+cascading over her shoulders. She has a fair complexion and wears a white baseball cap, a black sleeveless top
+that accentuates her slender physique, and a short, white pleated skirt that reveals her long, slender legs. She is
+also wearing white knee-high socks and white sneakers with black accents.
+She is seated on a white road bike, with the word "Derose" printed on the frame, and her right leg is extended
+forward, resting on the ground. The bicycle has a sleek, modern design with black components and a single
+gear. The background features a lush green field with a few scattered trees, and a line of wind turbines in the
+distance, indicating a rural or suburban area. The sky is clear with a few clouds, and the overall mood is one of
+tranquility and freedom. The image is crisp and detailed, capturing the textures of the grass, the tree bark, and
+the fabric of her clothing.
+```
+
+
+
+### 午夜诱惑：
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728977973601-image.png)
+
+
+```
+This is a high-resolution photograph of a young woman with a fair skin tone and a slender physique. She
+has shoulder-length,straight,dark red hair that is slightly tousled,and her eyes are partially covered by her hair.
+Her facial expression is contemplative, with her lips slightly parted and her right index finger resting on her lower
+lip. She is wearing a strapless,black velvet dress with a lace-up front, accentuating her small breasts. The dress
+has a fitted bodice and a flared skirt. Her left arm is adorned with a long, sheer black glove that extends to her
+elbow, adding a dramatic and gothic element to her outfit. She also wears large, ornate gold earrings with
+dangling elements. The background is dark, suggesting an evening setting,with a hint of city lights visible in the
+distance, indicating an urban environment. The woman stands against a railing or balcony,which is barely visible
+due to the low lighting. The overall mood of the image is moody and introspective, with a focus on the subject's
+striking appearance and the contrast between her dark attire and the subdued background,
+```
+
+### 公园野餐：
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978020879-image.png)
+
+
+```
+md style,julia margaret cameron,sony cyber-shot dsc rx10 ili,canon ef 70-200mm, ultrafine xtreme film, 1
+• super beautiful chinese girl, solo, subtle imperfections, long hair, moles, (Realistic facial features), 1950s
+housewife,a-line dress,cardigan sweater, pearls, pumps, apron, kitchen gloves, hair scarf,cat-eye glasses, winter
+lighting, sitting, a family picnic on a blanket in a park,
+
+```
+
+
+### 骑行女孩：
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978050017-image.png)
+
+
+```
+This is an image of a person wearing a pink and white cycling outfit,which includes a jersey,shorts, and a
+helmet. The person is sitting on a red bicycle, and there's a field with trees in the background. The person is
+wearing sunglasses and has long hair. The setting appears to be a rural or semi-rural area,given the open space
+and the presence of trees. The cycling outfit suggests that the person is engaged in cycling as a sport or
+recreational activity,
+```
+
+
+### 梦中女孩：
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978079196-image.png)
+
+```
+This is an image of a person dressed in a traditional Korean wedding dress, also known as a hanbok.
+The dress features a white fur stole, which is a common accessory for brides in Korean weddings, and a
+matching headpiece with a tiara. The person is standing in a room with a framed picture on the wall and a vase
+with flowers on a table. The overall setting suggests a formal and elegant occasion, likely a wedding ceremony.
+```
+
+### 兔女郎：
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978107864-image.png)
+
+
+```
+This is an image of a person dressed in a playful bunny costume, complete with ears and a tail,
+standing on a sandy beach. The individual is holding a glass of orange juice and is smiling at the camera. They
+are wearing a white top with a bow and a pair of shorts. The background shows a clear sky and the ocean, with
+other beachgoers in the distance. The overall atmosphere of the image is cheerful and lighthearted.
+```
+
+
+### 宿舍自拍：
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978161041-image.png)
+
+```
+In the image, there is a person taking a selfie. The individual is standing in a room that appears to be
+a home office or a study area. The person is wearing a pink cardigan over a white tank top, denim shorts, and
+white sneakers. They have long dark hair and are holding a smartphone in their right hand.
+The room has a desk with a computer monitor, keyboard, and mouse. There are also some books and a cup on
+the desk. The wall behind the person has some framed pictures and a window with a view of the outdoors. The
+flooring is a light-colored hardwood, and there's a door on the right side of the image. The lighting in the room is
+soft, suggesting an indoor setting with ambient light.
+```
+
+
+### 地铁随拍：
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978191772-image.png)
+
+
+```In the image, there is a person taking a selfie in a room that appears to be a home office or a study
+area. The person is wearing a white crop top and denim shorts, paired with white sneakers. They are standing in
+front of a desk with a computer monitor, keyboard, and mouse. The room has a cozy atmosphere with a window
+allowing natural light to enter. There are various items on the desk, including a cup and a book, suggesting that
+the space is used for work or study. The person has long hair and is wearing makeup, which is common for
+selfies. The overall setting suggests a casual, comfortable environment.
+```
+
+## Flux网红罗拉模型推荐
+
+友情提示：本期推荐的模型，有些可以直接免费下载，有些需要会员才可以下载，有些只能在线使用，大家根据自己的实际情况去做选择哈。
+
+### AWPortraitFL LoRA
+[https://www.liblib.art/modelinfo/15e7321c7de44ece97aef374c419caf2](https://www.liblib.art/modelinfo/15e7321c7de44ece97aef374c419caf2)
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978255670-image.png)
+
+
+关键词：在摄影工作室里，在光与影的相互作用中，柔和的聚光灯勾勒出一张脸的轮廓，突出了一个穿着光滑黑色高领毛衣的人。这件衣服以微妙的奢华包裹着皮肤，与高加索模特朴素的妆容和长发相得益彰，体现了极简主义的优雅。后面，一个浅灰色的背景延伸，其精细的纹理在昏暗的光线中微妙地闪烁，巧妙地平衡了构图，并将注意力集中在主体上。在黑色、灰色和肤色的调色板中，简单与深刻交织在一起，每一个细节都在诉说着不为人知的故事
+
+### 好看的亚洲人脸F1_girl
+
+[https://www.liblib.art/modelinfo/4d5d4fb6aebb442b9440609d378d5b45](https://www.liblib.art/modelinfo/4d5d4fb6aebb442b9440609d378d5b45)
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978287034-image.png)
+
+关键词：穿着大号白色t恤的亚洲女孩fux_girl，照片
+
+
+### F1-小红书真实写真
+[https://www.liblib.art/modelinfo/a211b853a58942bbbffaa96e18d85d55](https://www.liblib.art/modelinfo/a211b853a58942bbbffaa96e18d85d55)
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978324862-image.png)
+
+关键词：(全身：1.5)，中长镜头(MLS)，韩国青少年偶像为时尚摄影杂志拍摄自然风格的日常场景，站在一辆白色的汽
+车前，面向照片的左侧并以一个角度定位，她长长的黑发，对着镜头微笑，她拿着一束包裹的花，地板是混凝士制成
+的，在汽车陈列室里，照片右侧有橙色的气球和一瓶花
+
+
+### Lovely 'I F.1
+[https://www.liblib.art/modelinfo/f8a741061eca48de9d43b874cd8bad6d](https://www.liblib.art/modelinfo/f8a741061eca48de9d43b874cd8bad6d)
+
+关键词：wanghong，自拍照
+
+### [推荐]FluX_小红书真实风格1日常照片」极致逼真
+
+[https://www.liblib.art/modelinfo/d9675e37370e493ab8bf52046827a2b0](https://www.liblib.art/modelinfo/d9675e37370e493ab8bf52046827a2b0)
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978378064-image.png)
+
+关键词：一个女人戴着口罩，穿着浅蓝色背心，站在有警告标志的电梯前，一个女人戴着口罩，穿着浅蓝色背心，一个女人肩膀上拿着粉红色的绗缝腰包，穿着白色裙子和浅蓝色上衣，一个女人穿着浅蓝色村衫和白色褶裙的特写镜头
+
+
+### F1Streetphoto网红街头抓拍
+
+[https://www.liblib.art/modelinfo/35f00c81c8b9491c8bceec71dfa34222](https://www.liblib.art/modelinfo/35f00c81c8b9491c8bceec71dfa34222)
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978431015-image.png)
+
+关键词：街拍，一个高个子的中国女人走在街上，穿着灰色瑜伽服和白色运动鞋，穿着美国棒球夹克，戴着白色耳机，戴着紫色面具。她背着一个大旅行包，梳着一个发髻
+
+### 绪儿-天使坠入人间
+[https://www.liblib.art/modelinfo/c6d9702fd11a4e6e923d493b5a2ef048](https://www.liblib.art/modelinfo/c6d9702fd11a4e6e923d493b5a2ef048)
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978466581-image.png)
+
+关键词：一个漂亮的中国女孩，穿着白色的裙子，穿着一双白色的运动鞋，在镜子前自拍，在一个现代公寓的卧室里，木地板
+
+### flux小红书穿搭
+[https://www.liblib.art/modelinfo/c4152564904f4a49a6eb1c1f5a36a303](https://www.liblib.art/modelinfo/c4152564904f4a49a6eb1c1f5a36a303)
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978498633-image.png)
+
+关键词：cd
+
+
+### F.1-网红街景
+[https://www.liblib.art/modelinfo/4d76b33cb054f2e8fe2b00da61a6c72](https://www.liblib.art/modelinfo/4d76b33cb054f2e8fe2b00da61a6c72)
+
+
+![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-15/1728978525501-image.png)
+
+关键词：一个穿着时髦的女人，站在一张带有现代科技和装饰元素的优雅桌子旁，(look king_at_viewer:1.3)，乳白色的皮肤，圆脸
+
+### [推荐]F1bbw网红制造机
+[https://www.liblib.art/modelinfo/38c06d38b53646f4a0bdf984f13f6abd?from=personal_page&versionUuid=19a38558711e40a5849b7ddb4cfadd1b](https://www.liblib.art/modelinfo/38c06d38b53646f4a0bdf984f13f6abd?from=personal_page&versionUuid=19a38558711e40a5849b7ddb4cfadd1b)
+
+触发词：bbw girl 素材选择为健康圆润身材美女
+
+
+### F1抖音屠流版2.0_抖音屠流神器
+
+[https://www.liblib.art/modelinfo/dbe6de3e063f42daae95aba7bfe753ef?from=feed&versionUuid=95bcbf37452647a78da51b31a37e31e5](https://www.liblib.art/modelinfo/dbe6de3e063f42daae95aba7bfe753ef?from=feed&versionUuid=95bcbf37452647a78da51b31a37e31e5)
+
+
+
+13:T82a,
 # Cursor无限次免费使用
 
 ## 原理：
@@ -97,7 +576,7 @@ ok登录成功，现在又可以畅享了，到期了再重新注册
 ![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-12/1728724927671-image.png)
 
 
-d:T2498,
+14:T2498,
 ## Flux.1 生成美图、美女的提示词！需要的收藏
 
 
@@ -269,7 +748,7 @@ Two young Japanese women, one wearing a red top and blue jeans, the other wearin
 
 ![](https://cdn.jsdelivr.net/gh/wangwenjie1314/PicCDN/2024-10-9/1728464289961-image.png)
 
-e:Tf5d,
+15:Tf5d,
 ## 写在前面
 
 受《用AI做美女博主号赢麻了》启发，准备做自媒体账号矩阵，
@@ -368,7 +847,7 @@ http://127.0.0.1:8080/
 
 3、flux在工作流中使用Lora: [https://www.youtube.com/watch?v=HrnRCwoSSFk](https://www.youtube.com/watch?v=HrnRCwoSSFk)
 
-4、更丰富的提示词：[https://www.freedidi.com/14643.html](https://www.freedidi.com/14643.html)f:Tec4,
+4、更丰富的提示词：[https://www.freedidi.com/14643.html](https://www.freedidi.com/14643.html)16:Tec4,
 > 最近,由前 Stability AI员工创立的黑森林实验室推出了开源图像生成模型Flux.1,可谓名声大噪，爆火全网。零度刚才已经上手使用，效果确实让我大吃一惊，真的很强！！！
 
 # 视频教程
@@ -433,7 +912,7 @@ flux_schnell_example 示例获取：[https://comfyanonymous.github.io/ComfyUI_ex
 
 
 
-10:Td20,
+17:Td20,
 
 ## 写在前面
 
@@ -509,9 +988,8 @@ flux_schnell_example 示例获取：[https://comfyanonymous.github.io/ComfyUI_ex
 
 
 
-6:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"min-h-screen bg-background antialiased","children":[["$","$L8",null,{"attribute":"class","enableSystem":false,"defaultTheme":"dark","forcedTheme":"dark","children":[["$","header",null,{"className":"mx-auto max-w-5xl px-4 py-3 border-b border-gray-600 sticky top-0 bg-background z-50","children":["$","nav",null,{"className":"relative z-50 flex justify-between","children":[["$","div",null,{"className":"flex items-center md:gap-x-12","children":[["$","$L9",null,{"href":"/","className":"flex items-center space-x-1 font-bold","children":[["$","$La",null,{"alt":"一凡追梦","src":{"src":"/wemedia/_next/static/media/logo.0be96b97.svg","height":128,"width":128,"blurWidth":0,"blurHeight":0},"className":"w-8 h-8","width":24,"height":24}],["$","span",null,{"className":"text-gray-100 hidden sm:block","children":"一凡追梦"}]]}],["$","div",null,{"className":"hidden md:flex md:gap-x-6"}]]}],["$","div",null,{"className":"flex items-center","children":[["$","$Lb",null,{"posts":[{"id":"2024-10","metadata":{"title":"Cursor免费无限使用","slug":"2024-10-12-001","date":"$D2024-10-12T00:00:00.000Z"},"title":"Cursor免费无限使用","slug":"2024-10-12-001","content":"$c"},{"id":"2024-10","metadata":{"title":"测试隐藏文章","hide":1,"slug":"2024-10-10-001","date":"$D2024-10-10T00:00:00.000Z"},"title":"测试隐藏文章","slug":"2024-10-10-001","content":"\n\n\n测试隐藏文章测试隐藏文章测试隐藏文章测试隐藏文章"},{"id":"2024-10","metadata":{"title":"Flux美图提示词大全","slug":"2024-10-09-002","date":"$D2024-10-09T00:00:00.000Z"},"title":"Flux美图提示词大全","slug":"2024-10-09-002","content":"$d"},{"id":"2024-10","metadata":{"title":"Flux+ComfyUI文生图云服务实操教程","slug":"2024-10-09-001","date":"$D2024-10-09T00:00:00.000Z"},"title":"Flux+ComfyUI文生图云服务实操教程","slug":"2024-10-09-001","content":"$e"},{"id":"2024-10","metadata":{"title":"Flux.1本地部署最强文生图大模型！Comfyui 一键安装，简单又方便","slug":"2024-10-07-001","date":"$D2024-10-07T00:00:00.000Z"},"title":"Flux.1本地部署最强文生图大模型！Comfyui 一键安装，简单又方便","slug":"2024-10-07-001","content":"$f"},{"id":"2024-09","metadata":{"title":"出海工具箱","slug":"2024-09-30-001","date":"$D2024-09-30T00:00:00.000Z"},"title":"出海工具箱","slug":"2024-09-30-001","content":"\n## 写在前面\n\n本工具箱长期更新，旨在追寻最接地气的出海资讯；\n\n\n## 大神出海\n\n- [信息差——独立开发者出海周刊](https://gapis.money/)\n\n- [J实验室](https://weijunext.com/)\n\n- [Next.js 中文文档!](https://nextjscn.org/docs)\n\n- [为什么Chrome扩展是独立开发者的绝佳入场机会?](https://mp.weixin.qq.com/s/QkgJuHoH6zr87wbYMFM4Rg)\n\n"},{"id":"2024-06","metadata":{"title":"自媒体工具箱","slug":"2024-06-15-001","date":"$D2024-06-15T00:00:00.000Z"},"title":"自媒体工具箱","slug":"2024-06-15-001","content":"$10"}]}],["$","div",null,{"className":"flex flex-row items-center","children":[["$","$L9","repo",{"href":"https://github.com/wangwenjie1314/WeMedia","target":"_blank","rel":"noopener norefferer nofollow","className":"mx-3 flex max-w-[24px] flex-col items-center justify-center","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 16 16","className":"text-lg","children":["$undefined",[["$","path","0",{"d":"M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}]]}]]}]]}]}],["$","main",null,{"className":"flex flex-col items-center py-6 bg-background","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"mx-automax-h-screen flex flex-col items-center","children":[["$","$La",null,{"src":"/404.svg","alt":"404","width":128,"height":128}],["$","div",null,{"className":"w-full text-center mt-8 flex flex-col sm:flex-row gap-2","children":[["$","$L11",null,{"name":"回到首页","href":"/","target":"_self"}],["$","$L11",null,{"name":"Github","href":"https://github.com/wangwenjie1314/"}]]}]]}],"notFoundStyles":[],"styles":null}]}],["$","footer",null,{"children":["$","div",null,{"className":"pt-16 space-y-2 pb-4 flex flex-col items-center text-sm text-gray-400 border-t border-gray-600","children":[["$","div",null,{"className":"mx-auto flex flex-row items-center pb-2","children":[["$","$L9","email",{"href":"mailto:1662484899@qq.com","target":"_blank","rel":"noopener noreferrer nofollow","className":"mx-3 flex max-w-[24px] flex-col items-center justify-center","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 24 24","className":"text-lg","children":["$undefined",[["$","path","0",{"fill":"none","d":"M0 0h24v24H0z","children":[]}],["$","path","1",{"d":"M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}],["$","$L9","github",{"href":"https://github.com/wangwenjie1314/","target":"_blank","rel":"noopener noreferrer nofollow","className":"mx-3 flex max-w-[24px] flex-col items-center justify-center","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 16 16","className":"text-lg","children":["$undefined",[["$","path","0",{"d":"M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}]]}],["$","div",null,{"className":"flex space-x-2 flex-wrap justify-center","children":[]}],["$","div",null,{"className":"flex space-x-2","children":[["$","div",null,{"children":"©2024"}]," ",["$","$L9",null,{"href":"https://twitter.com/weijunext","target":"_blank","children":"jon"}]," ",["$","div",null,{"children":"All rights reserved."}]]}]]}]}],["$","$L12",null,{}],null]}],[["$","$L13",null,{}],["$","$L14",null,{}]]]}]]}]
-2:["$","div",null,{"className":"flex flex-row w-full pt-0","children":[["$","aside",null,{"className":"hidden md:block md:w-1/5 pl-6 max-h-[100vh] h-full overflow-auto sticky top-0 left-0","children":"$L15"}],["$","div",null,{"className":"w-full md:w-3/5 px-6","children":[["$","article",null,{"id":"article","children":[["$","h1",null,{"children":"自媒体工具箱"}],"$L16"]}],["$","$L17",null,{"className":"my-12 bg-gray-600"}],["$","div",null,{"className":"flex justify-between","children":[["$","div",null,{"children":["发布时间：","2024-06-15"]}],["$","div",null,{"className":"flex gap-2 flex-col sm:flex-row","children":["$undefined",["$","$L9",null,{"href":"2024-09-30-001","className":"link-underline","children":"下一篇"}],["$","$L9",null,{"href":"/","className":"link-underline","children":"去首页"}]]}]]}],["$","$L18",null,{}]]}],["$","div",null,{"className":"hidden md:flex flex-col justify-start md:w-1/5 pr-6","children":["$","$L19",null,{}]}]]}]
-15:["$","ul",null,{"className":"flex flex-col gap-4","children":[["$","li","2024-10-12-001",{"id":"2024-10","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$L9",null,{"href":"/weekly/2024-10-12-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"Cursor免费无限使用"}]]}],["$","li","2024-10-09-002",{"id":"2024-10","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$L9",null,{"href":"/weekly/2024-10-09-002","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"Flux美图提示词大全"}]]}],["$","li","2024-10-09-001",{"id":"2024-10","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$L9",null,{"href":"/weekly/2024-10-09-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"Flux+ComfyUI文生图云服务实操教程"}]]}],["$","li","2024-10-07-001",{"id":"2024-10","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$L9",null,{"href":"/weekly/2024-10-07-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"Flux.1本地部署最强文生图大模型！Comfyui 一键安装，简单又方便"}]]}],["$","li","2024-09-30-001",{"id":"2024-09","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$L9",null,{"href":"/weekly/2024-09-30-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"出海工具箱"}]]}],["$","li","2024-06-15-001",{"id":"2024-06","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$L9",null,{"href":"/weekly/2024-06-15-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"自媒体工具箱"}]]}]]}]
+6:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"min-h-screen bg-background antialiased","children":[["$","$Le",null,{"attribute":"class","enableSystem":false,"defaultTheme":"dark","forcedTheme":"dark","children":[["$","header",null,{"className":"mx-auto max-w-5xl px-4 py-3 border-b border-gray-600 sticky top-0 bg-background z-50","children":["$","nav",null,{"className":"relative z-50 flex justify-between","children":[["$","div",null,{"className":"flex items-center md:gap-x-12","children":[["$","$Lb",null,{"href":"/","className":"flex items-center space-x-1 font-bold","children":[["$","$Lf",null,{"alt":"一凡追梦","src":{"src":"/wemedia/_next/static/media/logo.0be96b97.svg","height":128,"width":128,"blurWidth":0,"blurHeight":0},"className":"w-8 h-8","width":24,"height":24}],["$","span",null,{"className":"text-gray-100 hidden sm:block","children":"一凡追梦"}]]}],["$","div",null,{"className":"hidden md:flex md:gap-x-6"}]]}],["$","div",null,{"className":"flex items-center","children":[["$","$L10",null,{"posts":[{"id":"2024-10","metadata":{"title":"用FLux生成的AI美女照片发在小红书，女网红要气死","slug":"2024-10-15-002","date":"$D2024-10-15T00:00:00.000Z"},"title":"用FLux生成的AI美女照片发在小红书，女网红要气死","slug":"2024-10-15-002","content":"$11"},{"id":"2024-10","metadata":{"title":"Flux小红书纯欲人像LORA，在线生成，多种风格集合","slug":"2024-10-15-001","date":"$D2024-10-15T00:00:00.000Z"},"title":"Flux小红书纯欲人像LORA，在线生成，多种风格集合","slug":"2024-10-15-001","content":"$12"},{"id":"2024-10","metadata":{"title":"数字分身！我用公众号文章制作了一个AI助手【教程】","slug":"2024-10-13-001","date":"$D2024-10-13T00:00:00.000Z","hide":1},"title":"数字分身！我用公众号文章制作了一个AI助手【教程】","slug":"2024-10-13-001","content":"\n待更新"},{"id":"2024-10","metadata":{"title":"Cursor免费无限使用","slug":"2024-10-12-001","date":"$D2024-10-12T00:00:00.000Z"},"title":"Cursor免费无限使用","slug":"2024-10-12-001","content":"$13"},{"id":"2024-10","metadata":{"title":"测试隐藏文章","hide":1,"slug":"2024-10-10-001","date":"$D2024-10-10T00:00:00.000Z"},"title":"测试隐藏文章","slug":"2024-10-10-001","content":"\n\n\n测试隐藏文章测试隐藏文章测试隐藏文章测试隐藏文章"},{"id":"2024-10","metadata":{"title":"Flux美图提示词大全","slug":"2024-10-09-002","date":"$D2024-10-09T00:00:00.000Z"},"title":"Flux美图提示词大全","slug":"2024-10-09-002","content":"$14"},{"id":"2024-10","metadata":{"title":"Flux+ComfyUI文生图云服务实操教程","slug":"2024-10-09-001","date":"$D2024-10-09T00:00:00.000Z"},"title":"Flux+ComfyUI文生图云服务实操教程","slug":"2024-10-09-001","content":"$15"},{"id":"2024-10","metadata":{"title":"Flux.1本地部署最强文生图大模型！Comfyui 一键安装，简单又方便","slug":"2024-10-07-001","date":"$D2024-10-07T00:00:00.000Z"},"title":"Flux.1本地部署最强文生图大模型！Comfyui 一键安装，简单又方便","slug":"2024-10-07-001","content":"$16"},{"id":"2024-09","metadata":{"title":"出海工具箱","slug":"2024-09-30-001","date":"$D2024-09-30T00:00:00.000Z"},"title":"出海工具箱","slug":"2024-09-30-001","content":"\n## 写在前面\n\n本工具箱长期更新，旨在追寻最接地气的出海资讯；\n\n\n## 大神出海\n\n- [信息差——独立开发者出海周刊](https://gapis.money/)\n\n- [J实验室](https://weijunext.com/)\n\n- [Next.js 中文文档!](https://nextjscn.org/docs)\n\n- [为什么Chrome扩展是独立开发者的绝佳入场机会?](https://mp.weixin.qq.com/s/QkgJuHoH6zr87wbYMFM4Rg)\n\n"},{"id":"2024-06","metadata":{"title":"自媒体工具箱","slug":"2024-06-15-001","date":"$D2024-06-15T00:00:00.000Z"},"title":"自媒体工具箱","slug":"2024-06-15-001","content":"$17"}]}],["$","div",null,{"className":"flex flex-row items-center","children":[["$","$Lb","repo",{"href":"https://github.com/wangwenjie1314/WeMedia","target":"_blank","rel":"noopener norefferer nofollow","className":"mx-3 flex max-w-[24px] flex-col items-center justify-center","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 16 16","className":"text-lg","children":["$undefined",[["$","path","0",{"d":"M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}]]}]]}]]}]}],["$","main",null,{"className":"flex flex-col items-center py-6 bg-background","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"mx-automax-h-screen flex flex-col items-center","children":[["$","$Lf",null,{"src":"/404.svg","alt":"404","width":128,"height":128}],["$","div",null,{"className":"w-full text-center mt-8 flex flex-col sm:flex-row gap-2","children":[["$","$L18",null,{"name":"回到首页","href":"/","target":"_self"}],["$","$L18",null,{"name":"Github","href":"https://github.com/wangwenjie1314/"}]]}]]}],"notFoundStyles":[],"styles":null}]}],["$","footer",null,{"children":["$","div",null,{"className":"pt-16 space-y-2 pb-4 flex flex-col items-center text-sm text-gray-400 border-t border-gray-600","children":[["$","div",null,{"className":"mx-auto flex flex-row items-center pb-2","children":[["$","$Lb","email",{"href":"mailto:1662484899@qq.com","target":"_blank","rel":"noopener noreferrer nofollow","className":"mx-3 flex max-w-[24px] flex-col items-center justify-center","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 24 24","className":"text-lg","children":["$undefined",[["$","path","0",{"fill":"none","d":"M0 0h24v24H0z","children":[]}],["$","path","1",{"d":"M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}],["$","$Lb","github",{"href":"https://github.com/wangwenjie1314/","target":"_blank","rel":"noopener noreferrer nofollow","className":"mx-3 flex max-w-[24px] flex-col items-center justify-center","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 16 16","className":"text-lg","children":["$undefined",[["$","path","0",{"d":"M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}]]}],["$","div",null,{"className":"flex space-x-2 flex-wrap justify-center","children":[]}],["$","div",null,{"className":"flex space-x-2","children":[["$","div",null,{"children":"©2024"}]," ",["$","$Lb",null,{"href":"https://twitter.com/weijunext","target":"_blank","children":"jon"}]," ",["$","div",null,{"children":"All rights reserved."}]]}]]}]}],["$","$L19",null,{}],null]}],[["$","$L1a",null,{}],["$","$L1b",null,{}]]]}]]}]
 7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"自媒体工具箱 | 一凡追梦"}],["$","meta","3",{"name":"description","content":"记录自媒体还有出海的一步步"}],["$","link","4",{"rel":"author","href":"https://weijunext.com"}],["$","meta","5",{"name":"author","content":"jon"}],["$","meta","6",{"name":"keywords","content":"WeMedia goout"}],["$","meta","7",{"name":"creator","content":"@jon.wang"}],["$","meta","8",{"property":"og:title","content":"自媒体工具箱 | 一凡追梦"}],["$","meta","9",{"property":"og:description","content":"记录自媒体还有出海的一步步"}],["$","meta","10",{"property":"og:url","content":"https://wangwenjie1314.github.io/WeMedia/"}],["$","meta","11",{"property":"og:site_name","content":"一凡追梦"}],["$","meta","12",{"property":"og:locale","content":"en_US"}],["$","meta","13",{"property":"og:image","content":"https://wangwenjie1314.github.io/WeMedia//og.jpg"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:site","content":"https://wangwenjie1314.github.io/WeMedia/"}],["$","meta","17",{"name":"twitter:creator","content":"@jon.wang"}],["$","meta","18",{"name":"twitter:title","content":"自媒体工具箱 | 一凡追梦"}],["$","meta","19",{"name":"twitter:description","content":"记录自媒体还有出海的一步步"}],["$","meta","20",{"name":"twitter:image","content":"https://wangwenjie1314.github.io/WeMedia//og.jpg"}],["$","link","21",{"rel":"shortcut icon","href":"/logo.png"}],["$","link","22",{"rel":"icon","href":"/favicon.ico"}],["$","link","23",{"rel":"apple-touch-icon","href":"/logo.png"}]]
 1:null
-16:[["$","h2",null,{"id":"写在前面","className":"text-3xl font-semibold mt-6 mb-4 border-b-2 border-gray-200 pb-2","children":"写在前面"}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":"本工具箱长期更新，旨在追寻最接地气的挣米方法；简单问题可留言沟通，复杂问题付费咨询。"}],"\n",["$","h2",null,{"id":"跑通的项目","className":"text-3xl font-semibold mt-6 mb-4 border-b-2 border-gray-200 pb-2","children":"跑通的项目"}],"\n",["$","ul",null,{"className":"list-disc pl-5 mt-0 mb-4","children":["\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/QronddRw9o1TowxlxJScQvJrnic?from=from_copylink","children":"💰Ai写头条文章纯干货总结"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/IVvbdKRhtoYSOLxw0wrcAsienNr?from=from_copylink","children":"💰AI换脸美女颜值视频"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/PJ51dz5p5oY0b0xQnHYc1bvenVd?from=from_copylink","children":"💰AI给人物换衣服（换装）"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/KLoedFWwCoIQo8xTL78cVwzlnIc?from=from_copylink","children":"💰AI生成美女跳舞视频"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/TwjWdcRLuodSYexWZaActTh9nmg?from=from_copylink","children":"💰AI克隆你的声音"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/Xosod5vYqoXl59x3hwicHw4tn2g?from=from_copylink","children":"💰AI数字人让照片说话+让视频改口型说话"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/AW6cdt1fioVjs6xgTZ1c8IGqnvh?from=from_copylink","children":"💰得物App搬运视频赚米"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/Ldhgd4OAho2IvexNjHUcBG7Mnf0?from=from_copylink","children":"💰老照片动起来"}]}],"\n"]}],"\n"]}],"\n",["$","h2",null,{"id":"大佬们的工具箱","className":"text-3xl font-semibold mt-6 mb-4 border-b-2 border-gray-200 pb-2","children":"大佬们的工具箱"}],"\n",["$","ul",null,{"className":"list-disc pl-5 mt-0 mb-4","children":["\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://xtx0o8yn7x.feishu.cn/docx/Dq4cd66qxoNsyaxKrWlc4l50nEm?from=from_copylink","children":"雷哥工具箱"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://vvtld748t6.feishu.cn/docx/doxcn7UTG5nXonGV8RBXgmmWl4g?from=from_copylink","children":"非哥丨黑K技工具箱"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://kw90g4gr61e.feishu.cn/docx/IJtadlc2ooGOrVx0uKvcVR29nCc?from=from_copylink","children":"嘴哥信息差工具箱大全"}]}],"\n"]}],"\n"]}],"\n",["$","h2",null,{"id":"近期","className":"text-3xl font-semibold mt-6 mb-4 border-b-2 border-gray-200 pb-2","children":"近期"}],"\n",["$","h3",null,{"id":"2024-07-24","className":"text-2xl font-semibold mt-6 mb-4","children":"2024-07-24"}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["1、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://mp.weixin.qq.com/s/hLy_dYuv3fqEI8ZQzetT_Q","children":"最近爆火的AI让老照片动起来，单月变现3W+ 学会了就掌握了流量密码"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["2、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://gapis.money/","children":"信息差-独立开发者周刊"}]]}],"\n",["$","h3",null,{"id":"2024-07-19","className":"text-2xl font-semibold mt-6 mb-4","children":"2024-07-19"}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["1、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://github.com/bleedline/aimoneyhunter","children":"Ai副业赚钱大集合"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["2、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://image.baidu.com/","children":"照片变清晰"}]," ",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://www.modelscope.cn/studios/iic/old_photo_restoration","children":"老照片上色"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["3、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/Q6DOdIsdAovYHvx38abcC4sQnXb?from=from_copylink","children":"植物大战僵尸杂交版 【卖资源】"}]]}],"\n",["$","h3",null,{"id":"2024-05","className":"text-2xl font-semibold mt-6 mb-4","children":"2024-05"}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["1、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://pan.quark.cn/s/f43a408c93f0","children":"利用AI工具SD制作热门美女跳舞视频详细教程完整版"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["2、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://pan.quark.cn/s/61798b4129b0","children":"一键去字幕工具安卓手机专用（点击下载）"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["3、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://mp.weixin.qq.com/s/AhavRvh_8a9AWLj97dNBxg","children":"全网之最，1.8万字保姆级闲鱼无货源，超详细干货"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["4、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://c9skfr0jmj.feishu.cn/drive/folder/fldcnuEO9GCrNdwjl55tP9eS03c","children":"【闲鱼工具箱】"}]]}],"\n",["$","h3",null,{"id":"2024-04","className":"text-2xl font-semibold mt-6 mb-4","children":"2024-04"}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["1、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://mp.weixin.qq.com/s/kRaU7anwI_MYgz8lC2E7vQ","children":"抖音如何快速起号？技巧都在这里面了！特别是养号！（全文干货）赶紧收藏"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["（1）",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://www.bilibili.com/video/BV1db411Q7zK/?spm_id_from=333.337.search-card.all.click&vd_source=102779c9d18746204930fe574c2e5e57","children":"揭秘抖音网红做号起号全流程，让让账号快速涨粉变现，"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["（2）",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://www.bilibili.com/video/BV1Z24y1A7e2/?spm_id_from=333.337.search-card.all.click&vd_source=102779c9d18746204930fe574c2e5e57","children":"抖音7天暴力起号课，起号投放运营课32节视频课程"}]]}],"\n",["$","h3",null,{"id":"2023-12","className":"text-2xl font-semibold mt-6 mb-4","children":"2023-12"}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["1、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://vow6kdbiak.feishu.cn/docx/OuJOd32a1oMjnexjWa0cmKjynfd?from=from_copylink","children":"俄罗斯数字人带货批量剪辑，700w播放！10分钟剪3条！一键全平台发布视频，提高效率!"}]]}]]
+8:["$","ul",null,{"className":"flex flex-col gap-4","children":[["$","li","2024-10-15-002",{"id":"2024-10","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$Lb",null,{"href":"/weekly/2024-10-15-002","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"用FLux生成的AI美女照片发在小红书，女网红要气死"}]]}],["$","li","2024-10-15-001",{"id":"2024-10","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$Lb",null,{"href":"/weekly/2024-10-15-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"Flux小红书纯欲人像LORA，在线生成，多种风格集合"}]]}],["$","li","2024-10-12-001",{"id":"2024-10","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$Lb",null,{"href":"/weekly/2024-10-12-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"Cursor免费无限使用"}]]}],["$","li","2024-10-09-002",{"id":"2024-10","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$Lb",null,{"href":"/weekly/2024-10-09-002","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"Flux美图提示词大全"}]]}],["$","li","2024-10-09-001",{"id":"2024-10","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$Lb",null,{"href":"/weekly/2024-10-09-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"Flux+ComfyUI文生图云服务实操教程"}]]}],["$","li","2024-10-07-001",{"id":"2024-10","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$Lb",null,{"href":"/weekly/2024-10-07-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"Flux.1本地部署最强文生图大模型！Comfyui 一键安装，简单又方便"}]]}],["$","li","2024-09-30-001",{"id":"2024-09","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$Lb",null,{"href":"/weekly/2024-09-30-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"出海工具箱"}]]}],["$","li","2024-06-15-001",{"id":"2024-06","className":"flex flex-col sm:flex-row gap-4 items-start","children":["$undefined",["$","$Lb",null,{"href":"/weekly/2024-06-15-001","className":"link-default truncate transition-colors duration-500 ease-in-out","children":"自媒体工具箱"}]]}]]}]
+9:[["$","h2",null,{"id":"写在前面","className":"text-3xl font-semibold mt-6 mb-4 border-b-2 border-gray-200 pb-2","children":"写在前面"}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":"本工具箱长期更新，旨在追寻最接地气的挣米方法；简单问题可留言沟通，复杂问题付费咨询。"}],"\n",["$","h2",null,{"id":"跑通的项目","className":"text-3xl font-semibold mt-6 mb-4 border-b-2 border-gray-200 pb-2","children":"跑通的项目"}],"\n",["$","ul",null,{"className":"list-disc pl-5 mt-0 mb-4","children":["\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/QronddRw9o1TowxlxJScQvJrnic?from=from_copylink","children":"💰Ai写头条文章纯干货总结"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/IVvbdKRhtoYSOLxw0wrcAsienNr?from=from_copylink","children":"💰AI换脸美女颜值视频"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/PJ51dz5p5oY0b0xQnHYc1bvenVd?from=from_copylink","children":"💰AI给人物换衣服（换装）"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/KLoedFWwCoIQo8xTL78cVwzlnIc?from=from_copylink","children":"💰AI生成美女跳舞视频"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/TwjWdcRLuodSYexWZaActTh9nmg?from=from_copylink","children":"💰AI克隆你的声音"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/Xosod5vYqoXl59x3hwicHw4tn2g?from=from_copylink","children":"💰AI数字人让照片说话+让视频改口型说话"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/AW6cdt1fioVjs6xgTZ1c8IGqnvh?from=from_copylink","children":"💰得物App搬运视频赚米"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/Ldhgd4OAho2IvexNjHUcBG7Mnf0?from=from_copylink","children":"💰老照片动起来"}]}],"\n"]}],"\n"]}],"\n",["$","h2",null,{"id":"大佬们的工具箱","className":"text-3xl font-semibold mt-6 mb-4 border-b-2 border-gray-200 pb-2","children":"大佬们的工具箱"}],"\n",["$","ul",null,{"className":"list-disc pl-5 mt-0 mb-4","children":["\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://xtx0o8yn7x.feishu.cn/docx/Dq4cd66qxoNsyaxKrWlc4l50nEm?from=from_copylink","children":"雷哥工具箱"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://vvtld748t6.feishu.cn/docx/doxcn7UTG5nXonGV8RBXgmmWl4g?from=from_copylink","children":"非哥丨黑K技工具箱"}]}],"\n"]}],"\n",["$","li",null,{"className":"mb-2","children":["\n",["$","p",null,{"className":"mt-4 mb-4","children":["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://kw90g4gr61e.feishu.cn/docx/IJtadlc2ooGOrVx0uKvcVR29nCc?from=from_copylink","children":"嘴哥信息差工具箱大全"}]}],"\n"]}],"\n"]}],"\n",["$","h2",null,{"id":"近期","className":"text-3xl font-semibold mt-6 mb-4 border-b-2 border-gray-200 pb-2","children":"近期"}],"\n",["$","h3",null,{"id":"2024-07-24","className":"text-2xl font-semibold mt-6 mb-4","children":"2024-07-24"}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["1、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://mp.weixin.qq.com/s/hLy_dYuv3fqEI8ZQzetT_Q","children":"最近爆火的AI让老照片动起来，单月变现3W+ 学会了就掌握了流量密码"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["2、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://gapis.money/","children":"信息差-独立开发者周刊"}]]}],"\n",["$","h3",null,{"id":"2024-07-19","className":"text-2xl font-semibold mt-6 mb-4","children":"2024-07-19"}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["1、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://github.com/bleedline/aimoneyhunter","children":"Ai副业赚钱大集合"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["2、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://image.baidu.com/","children":"照片变清晰"}]," ",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://www.modelscope.cn/studios/iic/old_photo_restoration","children":"老照片上色"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["3、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://nod3hje6q7.feishu.cn/docx/Q6DOdIsdAovYHvx38abcC4sQnXb?from=from_copylink","children":"植物大战僵尸杂交版 【卖资源】"}]]}],"\n",["$","h3",null,{"id":"2024-05","className":"text-2xl font-semibold mt-6 mb-4","children":"2024-05"}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["1、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://pan.quark.cn/s/f43a408c93f0","children":"利用AI工具SD制作热门美女跳舞视频详细教程完整版"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["2、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://pan.quark.cn/s/61798b4129b0","children":"一键去字幕工具安卓手机专用（点击下载）"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["3、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://mp.weixin.qq.com/s/AhavRvh_8a9AWLj97dNBxg","children":"全网之最，1.8万字保姆级闲鱼无货源，超详细干货"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["4、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://c9skfr0jmj.feishu.cn/drive/folder/fldcnuEO9GCrNdwjl55tP9eS03c","children":"【闲鱼工具箱】"}]]}],"\n",["$","h3",null,{"id":"2024-04","className":"text-2xl font-semibold mt-6 mb-4","children":"2024-04"}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["1、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://mp.weixin.qq.com/s/kRaU7anwI_MYgz8lC2E7vQ","children":"抖音如何快速起号？技巧都在这里面了！特别是养号！（全文干货）赶紧收藏"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["（1）",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://www.bilibili.com/video/BV1db411Q7zK/?spm_id_from=333.337.search-card.all.click&vd_source=102779c9d18746204930fe574c2e5e57","children":"揭秘抖音网红做号起号全流程，让让账号快速涨粉变现，"}]]}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["（2）",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://www.bilibili.com/video/BV1Z24y1A7e2/?spm_id_from=333.337.search-card.all.click&vd_source=102779c9d18746204930fe574c2e5e57","children":"抖音7天暴力起号课，起号投放运营课32节视频课程"}]]}],"\n",["$","h3",null,{"id":"2023-12","className":"text-2xl font-semibold mt-6 mb-4","children":"2023-12"}],"\n",["$","p",null,{"className":"mt-4 mb-4","children":["1、",["$","a",null,{"className":"link-underline","target":"_blank","rel":"noopener noreferrer nofollow","href":"https://vow6kdbiak.feishu.cn/docx/OuJOd32a1oMjnexjWa0cmKjynfd?from=from_copylink","children":"俄罗斯数字人带货批量剪辑，700w播放！10分钟剪3条！一键全平台发布视频，提高效率!"}]]}]]
